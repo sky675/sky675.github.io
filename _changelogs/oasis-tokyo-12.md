@@ -307,6 +307,6 @@ so, first and foremost, currently i am planning to do two more updates.
 
 focus has begun to shift more towards a new project - its also a fps, though its a bit different than oasis - i am currently planning to release a demo of sorts for this new game, and then by that point 1.3 will be out and ill switch focus back a bit to work on 1.4. *(i am currently planning to release both the aformentioned demo and 1.3 at or around the same time)*
 
-if you're interested in this new project, please join the discord linked in the main menu or sub to my youtube linked below. i'll likely post something about it on both when its more ready to be shown off. i talk more about this new game on the [projects page on this site here](/projects.md#third-project-tower).
+if you're interested in this new project, please join the discord linked in the main menu or sub to my youtube linked below. i'll likely post something about it on both when its more ready to be shown off. i talk more about this new game on the [projects page on this site here](/projects/#third-project-tower).
 
 thank you for reading, or just skipping all the way to the end. i hope you have fun with this update.
