@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+//want to make color as i want, todo
+$background-color: #191923 !default;
+//$text-color: #hex !default;
+$footer-background-color: mix(#cf6bf5, #000, 50%) !default;
+$primary-color: mix($footer-background-color, #fff, 10%) !default;
+$link-color: mix(#cf6bf5, #fff, 90%) !default; //default is primary-color
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.toc {
+	.nav__title {
+		background: $footer-background-color
+	}
+}

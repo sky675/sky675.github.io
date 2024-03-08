@@ -1,0 +1,7 @@
+main:
+  #- title: "Projects"
+  #  url: /projects.md
+  - title: "OASIS: Tokyo"
+    url: "https://store.steampowered.com/app/2531340"
+  - title: "Changelogs"
+    url: /changelogs/

@@ -1,0 +1,7 @@
+<!--intentionally blank, i dont want seo even if this isnt indexed by google-->
+{% if page.noindex %}
+  <meta name="robots" content="noindex">
+{% endif %}
+{% if page.site-title %}
+  <title>{{ page.site-title }}</title>
+{% endif %}
