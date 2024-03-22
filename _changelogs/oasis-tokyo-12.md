@@ -290,12 +290,9 @@ Exiting will now also automatically start if you're in the exit trigger when it 
 <br>
 
 # Known Issues
-All of these will be fixed in either 1.3 or a patch if a big enough issue arises
 
-- New clothing items arent in the extra mode appearance changer
-- In some spots rain can fall through the ground in arinobu
-- In some situations, the transition to the new exit in warehouses will slightly clip through the floor above it
-- Warehouses in general can be a bit laggy now in some situations, im still not 100% sure why specifically this happens but thisll be worked on in the future. It's not unplayable
+- Warehouses can be a bit laggy now in some situations, im still not 100% sure why specifically this happens but thisll be worked on in the future. It's not unplayable
+	- This should be somewhat better with the most recent hotfix, but it's probably not 100% fixed
 
 <br>
 
