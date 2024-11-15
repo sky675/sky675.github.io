@@ -3,5 +3,7 @@ main:
   #  url: /projects.md
   - title: "OASIS: Tokyo"
     url: "https://store.steampowered.com/app/2531340"
+  - title: "Dyskairos"
+    url: "https://sky675.itch.io/dyskairos"
   - title: "Changelogs"
     url: /changelogs/
