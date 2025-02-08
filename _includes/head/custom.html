@@ -1,4 +1,6 @@
-
+{% if page.noindex %}
+  <meta name="robots" content="noindex">
+{% endif %}
 {% if page.full-width %}
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/full-width.css">
 {% endif %}
