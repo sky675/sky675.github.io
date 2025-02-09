@@ -20,12 +20,25 @@
 
 title: sky's site
 email: skaaiedev@gmail.com
+name: &name sky
 description: >- # this means to ignore newlines until "baseurl:"
   My site that I'm probably just gonna use for changelogs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sky675.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: skaaie
 github_username:  sky675
+
+author:
+  name: *name
+  avatar: "/assets/images/modelv3_shot_t5_edit3_crop.png"
+  bio: solo game dev trying her best
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sky675"
+    - label: "Contact Form"
+      icon: "fa fa-fw fa-envelope"
+      url: "fill"
 
 atom_feed:
   hide: true
@@ -45,12 +58,16 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCnqczZEtybB_mx7Jz_797uw"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sky675"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/sky675"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/ub2DQSS2xE"
+    - label: "Categories"
+      url: "/categories/"
+    - label: "Tags"
+      url: "/tags/"
 
 collections:
   changelogs:

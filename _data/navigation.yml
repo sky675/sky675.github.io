@@ -7,3 +7,5 @@ main:
     url: "https://sky675.itch.io/dyskairos"
   - title: "Changelogs"
     url: /changelogs/
+  - title: "Blog"
+    url: /all-posts/
