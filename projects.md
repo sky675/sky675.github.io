@@ -24,7 +24,7 @@ This is my first commercially released project.
 
 It's an FPS game that was initially inspired by the Shadowrun trilogy of games but has since grown into what I'd like to believe is its own thing, with further inspiration from games like Payday, Tarkov, Stalker, Cyberpunk, and more. I like the little cyberpunk-ish world I've made for it and absolutely intend to return to that world in a few years.
 
-Of course, OASIS also has a bit of history behind it, so if you wanna learn about that and some fun facts about the development of it, you can check out this [blog post]() I made about it.
+Of course, OASIS also has a bit of history behind it, so if you wanna learn about that and maybe some fun facts about the development of it, you can check out this [blog post](/oasis/the-history-of-oasis/) I made about it.
 
 
 ## Dyskairos
