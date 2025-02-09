@@ -77,6 +77,10 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      header:
+        overlay_image: assets/images/event_header_generic1.png
+        show_overlay_excerpt: false
   # _pages
   - scope:
       path: ""
