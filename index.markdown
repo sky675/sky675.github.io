@@ -10,15 +10,15 @@ header:
   no-bottom: false
 ---
 
-hi!! i'm sky (or skaaie - i prefer sky though), i'm a solo game dev. welcome to my site! i'm probably not going to be using this much except for posting changelogs in nice formatting. though while i'm here, i figured i could also make this maybe a little portfolio of sorts i guess?
+Hi!! I'm sky (or skaaie - i prefer sky though), I'm a solo game dev. Welcome to my site! I'm probably not going to be using this much except for posting changelogs in nice formatting. Though while I'm here, I figured I could also make this maybe a little portfolio of sorts I guess? I'm also experimenting with maybe some dev blog posts.
 
-i first started learning unity in around 2015. i've had a few projects i'd consider "finished" but didn't like them enough to release them (maybe i will some day if theres interest in seeing these older projects? idk, or i might remake them - i don't think the ideas were *bad* i just wasn't happy with the end result). 
+I first started learning Unity in around 2015. I've had a few projects I'd consider "finished" but didn't like them enough to release them (maybe I will some day if theres interest in seeing these older projects? or I might remake them - I don't think the ideas were *bad*, I just wasn't happy with the end result). 
 
-my first publicly released project is OASIS: Tokyo. i've been working on it since late 2020, but the idea behind it has existed since 2018. you can find out more about the game and its history on the projects page below.
+My first publicly released project is OASIS: Tokyo. I first started working on it in mid 2020, but the idea behind it has existed since 2018. You can find out more about the game and some of its history on the projects page below.
 
-i'm currently working on a new project named Dyskairos. it's my first major project in godot. you can also find more about it on the projects page as well.
+I'm currently working on a new project named Dyskairos. It's my first major project in Godot. You can also find more about it - as well as whatever else I have worked on - in the projects page as well.
 
 <br>
 
-[Projects](/projects.md){: .btn .btn--inverse .btn--large}
+[Projects](/projects.md){: .btn .btn--inverse .btn--large} [Blog Posts](/all-posts.md){: .btn .btn--inverse .btn--large}
 {: .text-center}
