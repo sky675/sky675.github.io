@@ -37,9 +37,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sky675"
 
-atom_feed:
-  hide: true
-
 minimal_mistakes_skin: neon
 
 permalink: /:categories/:title/
