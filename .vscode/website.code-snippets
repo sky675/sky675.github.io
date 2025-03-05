@@ -19,7 +19,7 @@
 		"prefix": "new post setup",
 		"body": [
 			"category: ${1|oasis,dyskairos,koi,misc|}",
-			"tags: [${2|devblog,tutorial,thoughts|}, ${3|ai,audio,mechanics,modeling,history|}]",
+			"tags: [${2|devblog,tutorial,thoughts|}, ${3|game-ai,audio,mechanics,modeling,history|}]",
 			"excerpt: ${4}",
 			"---"
 		]
