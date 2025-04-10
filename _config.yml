@@ -36,12 +36,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sky675"
+    - label: "itch.io"
+      icon: "fab fa-fw fa-itch-io"
+      url: "https://sky675.itch.io/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCnqczZEtybB_mx7Jz_797uw"
 
 minimal_mistakes_skin: neon
 
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 
 #itch, youtube, github
 footer:
