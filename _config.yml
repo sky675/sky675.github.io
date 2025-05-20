@@ -31,7 +31,7 @@ github_username:  sky675
 author:
   name: *name
   avatar: "/assets/images/modelv3_shot_t5_edit3_crop.png"
-  bio: solo game dev trying her best. contact email can be found on youtube
+  bio: solo game dev trying her best. contact email can be found on youtube or on the index page of this website.
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
