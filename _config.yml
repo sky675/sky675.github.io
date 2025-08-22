@@ -75,6 +75,11 @@ collections:
   changelogs:
     output: true
     permalink: /:collection/:path/
+    order:
+      - oasis-tokyo-11.md
+      - oasis-tokyo-12.md
+      - oasis-tokyo-13.md
+      - oasis-tokyo-14.md
 
 defaults:
   # _changelogs
