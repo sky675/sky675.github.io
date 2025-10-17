@@ -66,7 +66,9 @@ I also have potential post launch ideas, including:
 
 {% include figure popup=true image_path="/assets/images/posts/projects1/oasis_wip.png" caption="A big work in progress, not final. Hair color is also currently randomized." %}
 
-With all the core major systems now at least partially implemented, I'm beginning to try and make the game's current assets look more presentable so I can start sharing screenshots and such. These characters' materials will likely be adjusted a bit more, but I think it's coming along pretty well! My current goals are to be able to record decent looking footage of a multiplayer mission by the end of the year and have a fully playable small vertical slice potentially available some time in the first half of 2026 (may or may not be public, I'd like to try and get a publisher of some kind on board because I don't think I'll be able to take this to its full potential alone).
+With all the core major systems now at least partially implemented, I'm beginning to try and make the game's current assets look more presentable so I can start sharing screenshots and such. These characters' materials will likely be adjusted a bit more, but I think it's coming along pretty well! 
+
+My current goals are to be able to record decent looking footage of a multiplayer mission by the end of the year and have a fully playable small vertical slice potentially available some time in the first half of 2026 (may or may not be public, I'd like to try and get a publisher of some kind on board because I don't think I'll be able to take this to its full potential alone).
 
 Once Dyskairos is out I'll be able to start working on this more often. The two games will likely (somewhat) swap positions in my schedule (I'm currently primarily only working on OASIS on the weekends). 
 
