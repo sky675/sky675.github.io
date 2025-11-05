@@ -35,9 +35,9 @@ I've also started work on a sequel using Godot that is in its early stages. My g
 
 [Dyskairos](https://store.steampowered.com/app/3463170) is a metroidvania-inspired FPS with roguelike features. You find yourself trapped in the vicinity of a mysterious tower and must find a valuable material stored at the top of the tower in order to escape. In order to climb it, you'll need to adapt to find a way to the next floor and then back out of the tower before the tower's cycle finishes - which will shuffle the items inside around.
 
-This will be my second commercial project. It's my first major project in Godot. Development started in late 2023 after experimenting with the engine (due to you probably know what), but was sidelined in order to create post-launch content for OASIS. 
+This is my second commercial project. It's my first major project in Godot. Development started in late 2023 after experimenting with the engine (due to you probably know what), but was sidelined in order to create post-launch content for OASIS. I returned to this while working on OASIS: Tokyo v1.4 (around October 2024, with it becoming my main focus once that was released in November).
 
-I started this project with the goal of creating as many assets as possible myself. So far, the only models in the project that haven't been made by me are environment props (save for one enemy and half of another enemy).
+I started this project with the goal of creating as many assets as possible myself. The only models in the project that weren't made by me are environment props (save for one enemy and half of another enemy).
 
 ## Digidrone - Game Jam Game
 ![digidrone](/assets/images/digidrone_FXP1eLm6Zf.png)

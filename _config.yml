@@ -76,10 +76,12 @@ collections:
     output: true
     permalink: /:collection/:path/
     order:
-      - oasis-tokyo-11.md
-      - oasis-tokyo-12.md
-      - oasis-tokyo-13.md
+      - dyskairos-release.md
+      - dyskairos-demo-v3.md
       - oasis-tokyo-14.md
+      - oasis-tokyo-13.md
+      - oasis-tokyo-12.md
+      - oasis-tokyo-11.md
 
 defaults:
   # _changelogs
