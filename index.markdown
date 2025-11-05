@@ -10,7 +10,7 @@ masthead_title: Homepage
 tagline: >- 
   I'm sky, currently a solo game developer. I am primarily a programmer and game designer, and specifically enjoy trying to create unique spins on the FPS genre. 
   <br><br>
-  I have around 7 years of experience with Unity and C#, and began working in Godot (using GDScript) as my primary engine last year. I also have some experience with Lua from my Garry's Mod days.
+  I have around 7 years of experience with Unity and C#, and began working in Godot (using GDScript) as my primary engine in 2024. I also have some experience with Lua from my Garry's Mod days.
   <br><br>
   Below you can find a portfolio of projects I've worked on!<br>In the navigation above you can also find my blog posts.
 header:
@@ -28,7 +28,7 @@ header:
 
 This is my first commerical project I've released and was made with Unity. About 95% of scripts the game uses was written by me from scratch over the span of about 3 years, including the menus, enemy AI, weapon functionality, and inventory systems.
 
-I've also started work on a sequel using Godot that is in its early stages.
+I've also started work on a sequel using Godot that is in its early stages. My goal with the sequel is to evolve the ideas of the first game with added multiplayer co-op support.
 
 ## Dyskairos - Solo Developed
 ![dys](/assets/images/vlcsnap-2025-01-28-03h18m34s404.png)
@@ -46,12 +46,19 @@ I started this project with the goal of creating as many assets as possible myse
 
 I handled most of the coding (excluding the intro ui and the audio log playing ui) as well as created the map, designed the puzzles, and sourced sound effects. My friend created the 3d models and other textures. It was my first released project in Godot.
 
+## Iterations - Game Jam Game
+(no photo)
+
+[Iterations](https://sky675.itch.io/iterations) was made for the GMTK 2025 game jam with [the same friend of mine](https://github.com/NateStanley). It's an arena shooter roguelite about an AI stuck in an infinite training loop where it is forced to fruitlessly defend its ship from an impending attack.
+
+As with Digidrone, I handled most of the game design, coding (excluding the visuals of the UI), created the map, and sourced textures and sound effects (excluding the VO). It was my first time properly using a CI/CD build workflow in order to easily update the game on itch. Similar workflows are currently being used for my current projects.
+
 ## StalkerRP - Community Project
 ![ppl](/assets/images/hl2_JI82pfAuj2.png){: .align-center}
 
-[This](https://github.com/sky675/srpv5) was a Garry's Mod server I developed with the help of [the same friend of mine](https://github.com/NateStanley) which was active from 2016 to 2021 (with some hiatuses). It's a roleplay gamemode based on the Stalker game series. 
+[This](https://github.com/sky675/srpv5) was a Garry's Mod server I developed with the help of [the same friend of mine](https://github.com/NateStanley) which was active from 2016 to 2021 (with some hiatuses). It's a "roleplay" gamemode based on the Stalker game series. 
 
-During the server's life, I created many features that (to my knowledge at least) was unique to the server when compared to similar servers, focused mainly on improving the experience of players. Those features also inspired other features that would later be added to OASIS and other projects.
+During the server's life, I created many features that (to my knowledge at least) was unique to the server when compared to similar servers at the time, focused mainly on improving the experience of players. Those features also inspired other features that would later be added to OASIS, other projects and would also be seen in some form in later communities' servers.
 
 ## Koi - Side Project
 ![koi](/assets/images/koi_vXmYK5Pv67.png)
