@@ -2,7 +2,7 @@
 title: "OASIS 2 Dev-Blog #7"
 category: oasis
 tags: [devblog]
-excerpt: so close but not quite close enough yet.
+excerpt: so close but not quite close enough yet. (some rambling included)
 ---
 
 Hi! Here's another progress update. Not too much to talk about for the intro here, like I said last time it is *technically* playable, but I need to flesh the content and visuals out a little bit before the showcase video can be made. As always, this should all be considered very much a work in progress. 
