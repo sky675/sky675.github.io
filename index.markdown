@@ -12,7 +12,7 @@ tagline: >-
   <br><br>
   I have around 7 years of solo experience with Unity and C#, and began working in Godot (using GDScript) as my primary engine in 2024. I also have some experience with Lua from my Garry's Mod days.
   <br><br>
-  Below you can find a portfolio of projects I've worked on!<br>In the navigation above you can also find my blog posts.
+  Below you can find a portfolio of projects I've worked on!<br>In the navigation above you can also find my blog posts. I try to post one monthly, though they're primarily about what I've been working on.
 header:
   no-bottom: false
 #  overlay_image: assets/images/library_hero.png
