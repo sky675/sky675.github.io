@@ -110,7 +110,6 @@ I am once again changing the plan for announcements. Re-evaulating my pace, I've
 - May/June/July - Larger video showcasing more of the game (the hub, shop scenes, other mechanics), will try to get a Steam page up by this point 
 	- Will definitely post this to the Discord, intended to be a formal "announcement" video
 	- May try to edit it into a shorter more trailer-like video and see if trailer channels can post it depending on response (eg ign gametrailers and such)
-- After this point, I'll start actively trying to shop around for a publisher, especially if I post the trailer video (if you're involved with something like that and are interested in publishing the game please email me, lets talk!!).
 - Not going to decide on a potential release date right now (though it definitely won't be this year, may not even be next)
 	- May consider a playtest or something later in the year, again largely depending on the state of development and general response to the previous videos.
 
