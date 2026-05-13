@@ -24,9 +24,9 @@ header:
 ## OASIS: Tokyo - Solo Developed
 ![oasis](/assets/images/vlcsnap-2023-05-30-19h02m20s512.png)
 
-[OASIS](https://store.steampowered.com/app/2531340) is a semi-tactical FPS with roguelite elements set in a cyberpunk version of Japan with a focus on inventory management. In it, you need to increase your reputation in the underworld in order to find the fabled "Oasis", a hidden location shrouded in mystery. While doing this, you must contend with limited inventory space and need to balance sufficient ammo and meds with extra bag space for loot.
+[OASIS](https://store.steampowered.com/app/2531340) is a semi-tactical FPS with rogue-lite elements set in a cyberpunk version of Japan with a focus on inventory management. In it, you need to increase your reputation in the underworld in order to find the fabled "Oasis", a hidden location shrouded in mystery. While doing this, you must contend with limited inventory space and need to balance sufficient ammo and meds with extra bag space for loot.
 
-This is my first commerical project I've released and was made with Unity. About 95% of scripts the game uses was written by me from scratch over the span of about 3 years, including the menus, enemy AI, weapon functionality, and inventory systems.
+This was my first commerical project I've released and was made with Unity. About 95% of scripts the game uses was written by me from scratch over the span of about 3 years, including the menus, enemy AI, weapon functionality, and inventory systems.
 
 I've also started work on a sequel using Godot that is in its early stages. My goal with the sequel is to evolve the ideas of the first game with added multiplayer co-op support.
 
@@ -44,7 +44,7 @@ I started this project with the goal of creating as many assets as possible myse
 
 [Digidrone](https://sky675.itch.io/digidrone) was made for the GMTK 2024 game jam with [a friend of mine](https://github.com/NateStanley). It's a short (<10 min) puzzle game where you play as two robots navigating a post-apocalyptic environment. 
 
-I handled most of the coding (excluding the intro ui and the audio log playing ui) as well as created the map, designed the puzzles, and sourced sound effects. My friend created the 3d models and other textures. It was my first released project in Godot.
+I handled most of the coding (excluding the intro UI and the audio log playing UI) as well as created the map, designed the puzzles, and sourced sound effects. My friend created the 3d models and other textures. It was my first released project in Godot.
 
 ## Iterations - Game Jam Game
 (no photo)
@@ -58,7 +58,7 @@ As with Digidrone, I handled most of the game design, coding (excluding the visu
 
 [This](https://github.com/sky675/srpv5) was a Garry's Mod server/gamemode I developed with the help of [the same friend of mine](https://github.com/NateStanley) which was active from 2016 to 2021 (with some hiatuses). It's a "roleplay" gamemode based on the Stalker game series. 
 
-During the server's life, I created many features that (to my knowledge at least) was unique to the server when compared to similar servers at the time, focused mainly on improving the experience of players. Those features also inspired other features that would later be added to OASIS, other projects and would also be seen in some form in later communities' servers.
+During the server's life, I created many features that were unique to the server when compared to similar servers at the time, focused mainly on improving the experience of players. Those features also inspired concepts that would later be added to OASIS, other projects and would also be seen in some form in later communities' servers.
 
 ## Koi - Side Project
 ![koi](/assets/images/koi_vXmYK5Pv67.png)
