@@ -1,0 +1,29 @@
+name: add raw changelog
+on:
+  repository_dispatch:
+    types: [oasis2_raw_changelog]
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: cat file
+        run: |
+          cat <<EOF > _raw_changelogs/${{ github.event.client_payload.refsha }}.md
+          ---
+          title: "OASIS 2 Changelog (${{ github.event.client_payload.refsha }})"
+          toc: true
+          toc_label: Changelog
+          full-width-toc: true
+          noindex: true
+          nopage: true
+          ---
+
+          ${{ github.event.client_payload.changelog }}
+          EOF
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: new changelog
+          file_pattern: _raw_changelogs/${{ github.event.client_payload.refsha }}.md

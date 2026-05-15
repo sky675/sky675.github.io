@@ -82,12 +82,22 @@ collections:
       - oasis-tokyo-13.md
       - oasis-tokyo-12.md
       - oasis-tokyo-11.md
+  raw_changelogs:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _changelogs
   - scope:
       path: ""
       type: changelogs
+    values:
+      layout: single
+      read_time: true
+      toc: true
+  - scope:
+      path: ""
+      type: raw_changelogs
     values:
       layout: single
       read_time: true
