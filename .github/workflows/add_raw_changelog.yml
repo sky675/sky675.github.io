@@ -23,7 +23,7 @@ jobs:
           ---
           
           EOF
-          CHG=$(echo "${{ github.event.client_payload.changelog }}"" | base64 -d)
+          CHG=$(echo "${{ github.event.client_payload.changelog }}" | base64 -d)
           cat "$CHG" >> _raw_changelogs/${{ github.event.client_payload.refsha }}.md
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
