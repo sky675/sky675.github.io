@@ -24,7 +24,7 @@ jobs:
           
           EOF
           CHG=$(echo "${{ github.event.client_payload.changelog }}" | base64 -d)
-          printf "%s" "$CHG" >> _raw_changelogs/${{ github.event.client_payload.refsha }}.md
+          printf '%s\n' "$CHG" >> _raw_changelogs/${{ github.event.client_payload.refsha }}.md
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: new changelog
