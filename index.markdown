@@ -10,7 +10,7 @@ masthead_title: Homepage
 tagline: >- 
   I'm sky, currently a solo game developer. I am primarily a programmer and game designer, and specifically enjoy trying to create unique spins on the FPS genre. I also have a major interest in game AI (the traditional kind, like bots in old multiplayer games).
   <br><br>
-  I have around 7 years of solo experience with Unity and C#, and began working in Godot (using GDScript) as my primary engine in 2024. I also have some experience with Lua from my Garry's Mod days.
+  I have around 7 years of solo experience with Unity and C# (started ~2016), and began working in Godot (using GDScript) as my primary engine in 2024. I also have experience with Lua from my Garry's Mod days.
   <br><br>
   Below you can find a portfolio of projects I've worked on!<br>In the navigation above you can also find my blog posts. I try to post one monthly, though they're primarily about what I've been working on.
 header:
@@ -28,14 +28,21 @@ header:
 
 This was my first commerical project I've released and was made with Unity. About 95% of scripts the game uses was written by me from scratch over the span of about 3 years, including the menus, enemy AI, weapon functionality, and inventory systems.
 
-I've also started work on a sequel using Godot that is in its early stages. My goal with the sequel is to evolve the ideas of the first game with added multiplayer co-op support.
+## OASIS II - Solo Developed
+![oasis2](/assets/images/posts/oasis2_blog11/4k_screenshot.png)
+
+OASIS II (no page currently) is a prequel to OASIS: Tokyo currently in development. Similar to its predecessor, it is a single-player/co-op "semi-tactical" FPS featuring elements inspired by extraction shooters and rogue-likes in a sci-fi cyberpunk setting. You play as part of an outfit of mercenaries, taking various "under the table" jobs from corporations, criminal organizations, and anyone else who's willing to pay. 
+
+You'll travel across a near-future alternate-history Japan in your Mobile Operating Base, meeting various traders with a variety of quests on top of revamped procedurally generated missions, all of which will provide reputation in its related region. Improving your reputation in one region may provide a foothold into another one. You'll also be able to improve yourself, using revamped cyberware and skill systems. The game also has many new gameplay features such as the addition of leaning and alternate ammo types. I've also improved my tooling, making content creation for the game much easier compared to Tokyo. 
+
+You can read more about the game [in my blog post here](/oasis/oasis-2-dev-blog-9). I've been periodically posting updates on the game's development on my blog on this site.
 
 ## Dyskairos - Solo Developed
 ![dys](/assets/images/vlcsnap-2025-01-28-03h18m34s404.png)
 
 [Dyskairos](https://store.steampowered.com/app/3463170) is a metroidvania-inspired FPS with roguelike features. You find yourself trapped in the vicinity of a mysterious tower and must find a valuable material stored at the top of the tower in order to escape. In order to climb it, you'll need to adapt to find a way to the next floor and then back out of the tower before the tower's cycle finishes - which will shuffle the items inside around.
 
-This is my second commercial project. It's my first major project in Godot. Development technically started in late 2023 after experimenting with the engine (due to you probably know what), but was sidelined in order to create post-launch content for OASIS. I returned to this while working on OASIS: Tokyo v1.4 (starting around October 2024, with it becoming my main focus once that was released in November).
+This is my second commercial project. It's my first major project in Godot. Development technically started in late 2023 after experimenting with the engine (due to the pricing scandal happening then), but was sidelined in order to create post-launch content for OASIS. I returned to this while working on OASIS: Tokyo v1.4 (starting around October 2024, with it becoming my main focus once that was released in November).
 
 I started this project with the goal of creating as many assets as possible myself. The only models in the project that weren't made by me are environment props (save for one enemy and half of another enemy).
 
@@ -67,4 +74,4 @@ Koi is a side project I've been working on that was originally inspired by the B
 
 I also have the intention of open sourcing it once it's further along (namely, once it has actual player models or at least support for them instead of just the capsules the game currently is using). 
 
-Development has largely been on hiatus at the moment as I'm busy with the OASIS sequel, though said sequel currently has AI based on the [design of the bots](/koi/koi-bots) in this project.
+Development has largely been on hiatus at the moment as I'm busy with the OASIS prequel, though said prequel has AI inspired by the [design of the bots](/koi/koi-bots) in this project.
