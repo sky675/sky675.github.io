@@ -35,7 +35,7 @@ OASIS II (no page currently) is a prequel to OASIS: Tokyo currently in developme
 
 You'll travel across a near-future alternate-history Japan in your Mobile Operating Base, meeting various traders with a variety of quests on top of revamped procedurally generated missions, all of which will provide reputation in its related region. Improving your reputation in one region may provide a foothold into another one. You'll also be able to improve yourself, using revamped cyberware and skill systems. The game also has many new gameplay features such as the addition of leaning and alternate ammo types. I've also improved my tooling, making content creation for the game much easier compared to Tokyo. 
 
-You can read more about the game [in my blog post here](/oasis/oasis-2-dev-blog-9). I've been periodically posting updates on the game's development on my blog on this site.
+You can read more about the game [in my blog post here](/oasis/oasis-2-dev-blog-9). I've been periodically posting updates on the game's development on my blog on this site. I've also created a roadmap [here](/oasis2_roadmap.md)
 
 ## Dyskairos - Solo Developed
 ![dys](/assets/images/vlcsnap-2025-01-28-03h18m34s404.png)
