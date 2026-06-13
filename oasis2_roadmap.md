@@ -44,6 +44,7 @@ This is the current (as of 6/10/26) planned roadmap for OASIS II. Anything here 
 	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Further details will be described in a future dev blog
 - Stocks system 
 	- Simple stock trading sim, will be an additional way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
+- Grenade reimplementation
 - ???
 - Potential early access launch (still undecided)
 
