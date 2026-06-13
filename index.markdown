@@ -31,7 +31,7 @@ This was my first commerical project I've released and was made with Unity. Abou
 ## OASIS II - Solo Developed
 ![oasis2](/assets/images/posts/oasis2_blog11/4k_screenshot.png)
 
-OASIS II (no page currently) is a prequel to OASIS: Tokyo currently in development. Similar to its predecessor, it is a single-player/co-op "semi-tactical" FPS featuring elements inspired by extraction shooters and rogue-likes in a sci-fi cyberpunk setting. You play as part of an outfit of mercenaries, taking various "under the table" jobs from corporations, criminal organizations, and anyone else who's willing to pay. 
+OASIS II (no page currently) is a prequel to OASIS: Tokyo currently in development. Similar to its predecessor, it is a single-player/co-op semi-tactical FPS featuring elements inspired by extraction shooters and rogue-likes in a sci-fi cyberpunk setting. You play as part of an outfit of mercenaries, taking various "under the table" jobs from corporations, criminal organizations, and anyone else who's willing to pay. 
 
 You'll travel across a near-future alternate-history Japan in your Mobile Operating Base, meeting various traders with a variety of quests on top of revamped procedurally generated missions, all of which will provide reputation in its related region. Improving your reputation in one region may provide a foothold into another one. You'll also be able to improve yourself, using revamped cyberware and skill systems. The game also has many new gameplay features such as the addition of leaning and alternate ammo types. I've also improved my tooling, making content creation for the game much easier compared to Tokyo. 
 
