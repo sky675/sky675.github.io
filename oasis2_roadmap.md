@@ -21,7 +21,7 @@ This is the current (as of 6/10/26) planned roadmap for OASIS II. Anything here 
 - Retrieval objective type **(done)**
 - Bounty objective type
 - Gadget weapon attachment type **(done)**
-- Initial skill trees for stats system
+- Initial skill trees for stats system **(done)**
 - Profile/save creation options (hardcore, sandbox, etc)
 - Second region (+ related traders)
 
