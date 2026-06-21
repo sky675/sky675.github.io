@@ -23,7 +23,7 @@ This is the current (as of 6/10/26) planned roadmap for OASIS II. Anything here 
 - Gadget weapon attachment type **(done)**
 - Initial skill trees for stats system **(done)**
 - Profile/save creation options (hardcore, sandbox, etc)
-- Second region (+ related traders)
+- Second region (+ related traders) **(done)**
 
 ## 0.3 - End of Winter 2026
 - Alert system (name tbd, reworked version of the alert system found in endgame/oasis hunt of Tokyo implemented into the main game)
