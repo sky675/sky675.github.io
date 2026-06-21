@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 6/10/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 6/21/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 (Current) - End of Summer 2026
 - Steam multiplayer/lobby implementation
@@ -27,28 +27,32 @@ This is the current (as of 6/10/26) planned roadmap for OASIS II. Anything here 
 
 ## 0.3 - End of Winter 2026
 - Alert system (name tbd, reworked version of the alert system found in endgame/oasis hunt of Tokyo implemented into the main game)
-- Setup for potential localization (will probably start a crowdin project or something with this, don't have the money to pay for localization unfortunately lol)
+- Setup for potential localization (will probably start a crowdin project or something with this, cannot afford paying for localization atm)
 - New map type (tbd)
 - New weapons (currently planned: double barrel, ak platform, pm9)
 - Destruction objective type
 - Upload/Defense objective type
 - Third region (+ related traders)
 - Upgradeable stash rows (via a trader)
-- Passive v-mon gain (mining)
+- Passive v-mon gain (mining, also will be able to convert from/to yen and v-mon at a loss)
 - Multi-mode gadget attachment type (dbal reimplementation)
-- ???
+- New ammo types (incendiary, match, ???)
 - Potentionally a public playtest in some form (unsure)
 
 ## 0.4 - ??? 2027
 - Hacking system 
-	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Further details will be described in a future dev blog
+	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Further details will be announced in a future dev blog
 - Stocks system 
 	- Simple stock trading sim, will be an additional way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
 - Grenade reimplementation
+- New map type (tbd)
+- New weapons (tbd, probably 2 or 3 weapons from 1)
+- Defuse objective type
+- Brand new objective type (tbd, have a couple ideas)
 - ???
-- Potential early access launch (still undecided)
+- Potential early access launch (still undecided, maybe a playtest instead if i decided against it during 0.3)
 
-## Features for full release - ???
+## Planned for full release - ???
 - Six total regions
 - Main storyline with three endings
 - By this point, everything relevant from Tokyo should be reimplemented (weapons, objectives, etc)
