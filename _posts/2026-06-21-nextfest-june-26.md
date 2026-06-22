@@ -3,6 +3,9 @@ title: "My favorites from Next Fest June '26"
 category: misc
 tags: [thoughts]
 excerpt: i've always wanted to write about games i like from a next fest!
+toc: true
+header:
+  overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
 Hi! Like I mentioned last month, this post will primarily be about my favorite games from this most recent Next Fest, in no particular order. If you like my games and also looked at games in the event, you may have found these already, but if not, here's some new ones to check out maybe :). I'll also give a general update on OASIS II at the end.
