@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 6/21/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 6/25/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 (Current) - End of Summer 2026
 - Steam multiplayer/lobby implementation
@@ -34,7 +34,7 @@ This is the current (as of 6/21/26) planned roadmap for OASIS II. Anything here 
 - Upload/Defense objective type
 - Third region (+ related traders)
 - Upgradeable stash rows (via a trader)
-- Passive v-mon gain (mining, also will be able to convert from/to yen and v-mon at a loss)
+- Passive v-mon gain (mining, also will be able to convert from/to yen and v-mon at a loss, will be upgradeable)
 - Multi-mode gadget attachment type (dbal reimplementation)
 - New ammo types (incendiary, match, ???)
 - Potentionally a public playtest in some form (unsure)
@@ -43,14 +43,14 @@ This is the current (as of 6/21/26) planned roadmap for OASIS II. Anything here 
 - Hacking system 
 	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Further details will be announced in a future dev blog
 - Stocks system 
-	- Simple stock trading sim, will be an additional way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
-- Grenade reimplementation
+	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
 - New map type (tbd)
-- New weapons (tbd, at least 3 weapons from 1)
+- Grenade reimplementation
+- New weapons (tbd, at least 2-3 weapons from 1)
 - Defuse objective type
-- Brand new objective type (tbd, have a couple ideas)
+- Brand new objective type (have a couple ideas, tbd which one)
 - ???
-- Potential early access launch (still undecided, maybe a playtest instead if i decided against it during 0.3)
+- Potential early access launch (still undecided, maybe a playtest instead if i decided against it during 0.3, or maybe i'll do quarterly-ish limited playtests alongside big milestones? idk again unsure at this point in time what i wanna do)
 
 ## Planned for full release - ???
 - Six total regions
