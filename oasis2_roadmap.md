@@ -46,7 +46,7 @@ This is the current (as of 6/21/26) planned roadmap for OASIS II. Anything here 
 	- Simple stock trading sim, will be an additional way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
 - Grenade reimplementation
 - New map type (tbd)
-- New weapons (tbd, probably 2 or 3 weapons from 1)
+- New weapons (tbd, at least 3 weapons from 1)
 - Defuse objective type
 - Brand new objective type (tbd, have a couple ideas)
 - ???
