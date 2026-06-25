@@ -27,7 +27,7 @@ This is the current (as of 6/21/26) planned roadmap for OASIS II. Anything here 
 
 ## 0.3 - End of Winter 2026
 - Alert system (name tbd, reworked version of the alert system found in endgame/oasis hunt of Tokyo implemented into the main game)
-- Setup for potential localization (will probably start a crowdin project or something with this, cannot afford paying for localization atm)
+- Setup for potential localization (i've been building stuff preemptively with this in mind from the beginning so itll be a lot easier to implement compared the effort that would've been needed to localize tokyo, but will probably start a crowdin project or something with this, cannot afford paying for localization atm)
 - New map type (tbd)
 - New weapons (currently planned: double barrel, ak platform, pm9)
 - Destruction objective type
