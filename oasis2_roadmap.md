@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 6/25/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 6/27/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 (Current) - End of Summer 2026
 - Steam multiplayer/lobby implementation
@@ -22,7 +22,7 @@ This is the current (as of 6/25/26) planned roadmap for OASIS II. Anything here 
 - Bounty objective type
 - Gadget weapon attachment type **(done)**
 - Initial skill trees for stats system **(done)**
-- Profile/save creation options (hardcore, sandbox, etc)
+- Profile/save creation options (hardcore, sandbox, etc) **(done)**
 - Second region (+ related traders) **(done)**
 
 ## 0.3 - End of Winter 2026
