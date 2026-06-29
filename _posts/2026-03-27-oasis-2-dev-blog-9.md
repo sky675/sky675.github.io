@@ -103,22 +103,6 @@ This new system consists of 3 scripts, a main "handler", a micro resource, and a
 
 ## Roadmap/Conclusion
 
-I am once again changing the plan for announcements. Re-evaulating my pace, I've got a new plan, here's what you can expect:
-- Early April - Short video showcasing gameplay of a single mission, may or may not be multiplayer, no Steam page
-	- Will likely *not* post this to the Discord
-	- Also may try development videos alongside blog posts if there's a decent response
-- May/June/July - Larger video showcasing more of the game (the hub, shop scenes, other mechanics), will try to get a Steam page up by this point 
-	- Will definitely post this to the Discord, intended to be a formal "announcement" video
-	- May try to edit it into a shorter more trailer-like video and see if trailer channels can post it depending on response (eg ign gametrailers and such)
-- Not going to decide on a potential release date right now (though it definitely won't be this year, may not even be next)
-	- May consider a playtest or something later in the year, again largely depending on the state of development and general response to the previous videos.
-
-There's a few other things I also want to do between April and July (may or may not happen):
-- One final update to OASIS: Tokyo, fixing the remaining minor issues that's been on my list and adjusting some of the lore articles to include some stuff planned for 2 as well as probably adding some new articles too. Specifically, planned for this update:
-	- Fixing a bug I found with the AI's runaway state while porting it to 2's AI
-	- In Elimination, once there are 3 enemies left, direct them towards the player and prevent more from spawning (this is what 2's version of this objective does)
-	- Rework the secret puzzle to not require the radio in the intro scene (the solution won't change though, just don't want to force people to listen to my stupid 60 second meme song and static for 5-15 mins for it anymore lol)
-- Publicly releasing koi and making its repo public.
-- If a *single* person messages or emails me or posts in the Discord that they are interested in the weekly runs update that was planned for Dyskairos, I'll do it that weekend. Sales wise, it's completely dead (Tokyo is selling more than it still lmao), so I don't see much reason in updating it otherwise.
+Edit 6/29/26: Previously, there was a plan for a "public" reveal here, but I've deleted it as it is no longer relevant and I don't want to confuse people.
 
 That's about it right now. Please let me know what you think! Hopefully you'll see a new video on my channel in the coming week or so, provided I don't run into any major issues with the remaining work needed for a real playtest.
