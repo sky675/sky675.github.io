@@ -10,10 +10,10 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 6/29/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 6/30/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
-## 0.2 (Current) - End of Summer 2026
-- Steam multiplayer/lobby implementation
+## 0.2 - Done
+- Steam multiplayer/lobby implementation **(done)**
 - Warehouses map type **(done)**
 - Pump-action shotgun **(done)**
 - AR-based platform (M4A1 + semi-auto variant) **(done)**
@@ -25,9 +25,11 @@ This is the current (as of 6/29/26) planned roadmap for OASIS II. Anything here 
 - Profile/save creation options (hardcore, sandbox, etc) **(done)**
 - Second region (+ related traders) **(done)**
 
-## 0.3 - End of Winter 2026
-- Alert system (name tbd, reworked version of the alert system found in endgame/oasis hunt of Tokyo implemented into the main game, will basically work as a "soft time limit" for missions)
-- Setup for potential localization (i've been building stuff with this in mind from the beginning so itll be a lot easier to implement compared the effort that would've been needed to localize tokyo, but will probably start a crowdin project or something with this, cannot afford paying for localization atm so i'd be grateful for help with this)
+## 0.3 (Current) - End of Winter 2026
+- Alert system 
+	- Actual name currently undecided, is a reworked version of the alert level found in endgame/oasis hunt of Tokyo implemented into the main game. Will basically work as a "soft time limit" for missions, encouraging you to complete the mission then leave, rather than loot through everything in the entire level for 5 minutes after the main enemies are dead.
+- Setup for potential localization 
+	- I've been building stuff with this in mind from the beginning so itll be a lot easier to implement compared the effort that would've been needed to localize tokyo, but will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this when its time for it.
 - New map type (tbd)
 - New weapons (currently planned: double barrel, ak platform, pm9)
 - Destruction objective type
@@ -51,6 +53,11 @@ This is the current (as of 6/29/26) planned roadmap for OASIS II. Anything here 
 - Brand new objective type (have a couple ideas, tbd which one)
 - ???
 - Potential early access launch (still undecided, maybe a playtest instead if i decided against it during 0.3, or maybe i'll do quarterly-ish limited playtests alongside big milestones? idk again unsure at this point in time what i wanna do)
+
+## 0.5 - ??? 2027
+- New map type (tbd)
+- New weapons (tbd)
+- ???
 
 ## Plan for full release - ??? 2028+
 - Six total regions
