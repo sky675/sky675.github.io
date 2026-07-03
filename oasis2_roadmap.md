@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 6/30/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 7/2/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -48,7 +48,7 @@ This is the current (as of 6/30/26) planned roadmap for OASIS II. Anything here 
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
 - New map type (tbd)
 - Grenade reimplementation
-- New weapons (tbd, at least 2-3 weapons from 1)
+- New weapons (tbd, at least 2-3 weapons from 1, probably some pistols)
 - Defuse objective type
 - Brand new objective type (have a couple ideas, tbd which one)
 - ???
@@ -56,7 +56,7 @@ This is the current (as of 6/30/26) planned roadmap for OASIS II. Anything here 
 
 ## 0.5 - ??? 2027
 - New map type (tbd)
-- New weapons (tbd)
+- New weapons (tbd, aiming for at least 3 weapons per milestone)
 - ???
 
 ## Plan for full release - ??? 2028+
