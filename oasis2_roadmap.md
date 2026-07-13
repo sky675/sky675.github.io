@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 7/10/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 7/13/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -29,16 +29,16 @@ This is the current (as of 7/10/26) planned roadmap for OASIS II. Anything here 
 - Alert system 
 	- Actual name currently undecided, is a reworked version of the alert level found in endgame/oasis hunt of Tokyo implemented into the main game. Will basically work as a "soft time limit" for missions, encouraging you to complete the mission then leave, rather than loot through everything in the entire level for 5 minutes after the main enemies are dead.
 - Setup for potential localization 
-	- I've been building stuff with this in mind from the beginning so itll be a lot easier to implement compared the effort that would've been needed to localize tokyo, but will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this when its time for it.
+	- I've been building stuff with this in mind from the beginning so it'll be a lot easier to implement compared the effort that would've been needed to localize Tokyo, but will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this when its time for it.
 - New map type (tbd)
 - Double barrel shotgun **(done)**
 - AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
-- New weapons (currently planned: pm9)
+- PM-9 smg (features sight and suppressor att slots that weren't in tokyo) **(done)**
 - Destruction objective type
 - Upload/Defense objective type
 - Third region (+ related traders)
 - Upgradeable stash rows (via a trader)
-- Passive V-Mon gain (mining, also will be able to convert from/to the 2 currencies at a loss, will be upgradeable)
+- Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable)
 - Multi-mode gadget attachment type (dbal reimplementation)
 - New ammo types (incendiary, match, ???)
 - Potentionally a public playtest in some form (unsure)
