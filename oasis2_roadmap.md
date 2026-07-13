@@ -28,6 +28,9 @@ This is the current (as of 7/13/26) planned roadmap for OASIS II. Anything here 
 ## 0.3 (Current) - End of Winter 2026
 - Alert system 
 	- Actual name currently undecided, is a reworked version of the alert level found in endgame/oasis hunt of Tokyo implemented into the main game. Will basically work as a "soft time limit" for missions, encouraging you to complete the mission then leave, rather than loot through everything in the entire level for 5 minutes after the main enemies are dead.
+	- Similar to the alert level in Tokyo, after a period of time, new enemies will begin repeatedly spawning into the level to hunt you. These enemies will typically be much harder than the mission's normal enemies, and will also vary depending on the current region and its current alert level.
+	- Completing missions and leaving them quickly will reduce the alert level gained per mission. Killing the alert level enemies will further increase the region's alert level. The alert level of regions will also go down naturally over time (potentially, you may also be able to pay a specific trader to reduce the alert level of a region).
+	- I'm against adding a "hard" time limit (eg: "MIA" status), but I do think somewhat restricting the amount of time you're in a single mission is good, so this is my solution for that.
 - Setup for potential localization 
 	- I've been building stuff with this in mind from the beginning so it'll be a lot easier to implement compared the effort that would've been needed to localize Tokyo, but will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this when its time for it.
 - New map type (tbd)
@@ -45,7 +48,7 @@ This is the current (as of 7/13/26) planned roadmap for OASIS II. Anything here 
 
 ## 0.4 - ??? 2027
 - Hacking system 
-	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Further details will be announced in a future dev blog
+	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details will be announced in a future dev blog
 - Stocks system 
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
 - New map type (tbd)
