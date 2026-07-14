@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 7/13/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -26,10 +26,10 @@ This is the current (as of 7/13/26) planned roadmap for OASIS II. Anything here 
 - Second region (+ related traders) **(done)**
 
 ## 0.3 (Current) - End of Winter 2026
-- Alert system 
-	- Actual name currently undecided, is a reworked version of the alert level found in endgame/oasis hunt of Tokyo implemented into the main game. Will basically work as a "soft time limit" for missions, encouraging you to complete the mission then leave, rather than loot through everything in the entire level for 5 minutes after the main enemies are dead.
+- Alert system **(done)**
+	- Is a reworked version of the alert level found in endgame/oasis hunt of Tokyo implemented into the main game. Will basically work as a "soft time limit" for missions, encouraging you to complete the mission then leave, rather than loot through everything in the entire level for 5 minutes after the main enemies are dead.
 	- Similar to the alert level in Tokyo, after a period of time, new enemies will begin repeatedly spawning into the level to hunt you. These enemies will typically be much harder than the mission's normal enemies, and will also vary depending on the current region and its current alert level.
-	- Completing missions and leaving them quickly will reduce the alert level gained per mission. Killing the alert level enemies will further increase the region's alert level. The alert level of regions will also go down naturally over time (potentially, you may also be able to pay a specific trader to reduce the alert level of a region).
+	- Completing missions and leaving them quickly will reduce the alert level gained per mission. Killing the alert level enemies will further increase the region's alert level. The alert level of regions will also go down naturally over time (you may eventually also be able to pay a specific trader to reduce the alert level of a region as well).
 	- I'm against adding a "hard" time limit (eg: "MIA" status), but I do think somewhat restricting the amount of time you're in a single mission is good, so this is my solution for that.
 - Setup for potential localization 
 	- I've been building stuff with this in mind from the beginning so it'll be a lot easier to implement compared the effort that would've been needed to localize Tokyo, but will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this when its time for it.
