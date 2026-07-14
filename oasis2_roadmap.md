@@ -31,8 +31,9 @@ This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here 
 	- Similar to the alert level in Tokyo, after a period of time, new enemies will begin repeatedly spawning into the level to hunt you. These enemies will typically be much harder than the mission's normal enemies, and will also vary depending on the current region and its current alert level.
 	- Completing missions and leaving them quickly will reduce the alert level gained per mission. Killing the alert level enemies will further increase the region's alert level. The alert level of regions will also go down naturally over time (you may eventually also be able to pay a specific trader to reduce the alert level of a region as well).
 	- I'm against adding a "hard" time limit (eg: "MIA" status), but I do think somewhat restricting the amount of time you're in a single mission is good, so this is my solution for that.
-- Setup for potential localization 
+- Setup for potential localization **(done)**
 	- I've been building stuff with this in mind from the beginning so it'll be a lot easier to implement compared the effort that would've been needed to localize Tokyo, but will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this when its time for it.
+	- If you'd like to help translating the game (or the store page too) in your language, please get in touch via Discord or my email!
 - New map type (tbd)
 - Double barrel shotgun **(done)**
 - AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
