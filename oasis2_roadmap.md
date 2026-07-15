@@ -32,7 +32,7 @@ This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here 
 	- Completing missions and leaving them quickly will reduce the alert level gained per mission. Killing the alert level enemies will further increase the region's alert level. The alert level of regions will also go down naturally over time (you may eventually also be able to pay a specific trader to reduce the alert level of a region as well).
 	- I'm against adding a "hard" time limit (eg: "MIA" status), but I do think somewhat restricting the amount of time you're in a single mission is good, so this is my solution for that.
 - Setup for potential localization **(done)**
-	- I've been building stuff with this in mind from the beginning so it'll be a lot easier to implement compared the effort that would've been needed to localize Tokyo, but will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this when its time for it.
+	- Will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this.
 	- If you'd like to help translating the game (or the store page too) in your language, please get in touch via Discord or my email!
 - New map type (tbd)
 - Double barrel shotgun **(done)**
@@ -54,7 +54,7 @@ This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here 
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
 - New map type (tbd)
 - Grenade reimplementation
-- New weapons (tbd, at least 2-3 weapons from 1, probably some pistols)
+- New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump)
 - Defuse objective type
 - Brand new objective type (have a couple ideas, tbd which one)
 - ???
@@ -65,7 +65,7 @@ This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here 
 - New weapons (tbd, aiming for at least 3 weapons per milestone)
 - ???
 
-## Plan for full release - ??? 2028+
+## Expectation for full release - ??? 2028+
 - Six total regions
 - Main storyline with three endings
 - By this point, everything relevant from Tokyo should be reimplemented (weapons, objectives, etc)
