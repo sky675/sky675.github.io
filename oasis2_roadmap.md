@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 7/16/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -38,8 +38,9 @@ This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here 
 - Double barrel shotgun **(done)**
 - AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
 - PM-9 smg (features sight and suppressor att slots that weren't in tokyo) **(done)**
-- Destruction objective type
-- Upload/Defense objective type
+- Destruction objective type **(done)**
+- Upload/Defense objective type **(done)**
+	- Both of these only involve the classic servers that were used for these in Tokyo right now, but want to expand these objectives to other objects later
 - Third region (+ related traders)
 - Upgradeable stash rows (via a trader)
 - Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable)
@@ -56,6 +57,7 @@ This is the current (as of 7/14/26) planned roadmap for OASIS II. Anything here 
 - Grenade reimplementation
 - New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump)
 - Defuse objective type
+- Cluster objective type
 - Brand new objective type (have a couple ideas, tbd which one)
 - ???
 - Potential early access launch (still undecided, maybe a playtest instead if i decided against it during 0.3, or maybe i'll do quarterly-ish limited playtests alongside big milestones? idk again unsure at this point in time what i wanna do)
