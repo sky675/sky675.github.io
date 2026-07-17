@@ -33,7 +33,7 @@ This is the current (as of 7/17/26) planned roadmap for OASIS II. Anything here 
 	- I'm against adding a "hard" time limit (eg: "MIA" status), but I do think somewhat restricting the amount of time you're in a single mission is good, so this is my solution for that.
 - Setup for potential localization **(done)**
 	- Will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this.
-	- If you'd like to help translating the game (or the store page too) in your language, please get in touch via Discord or my email!
+	- If you'd like to help translating the game (or the store page too) in your language before then, please get in touch via Discord or my email!
 - New map type (tbd)
 - Double barrel shotgun **(done)**
 - AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
