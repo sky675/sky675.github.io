@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 7/17/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 7/19/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -42,7 +42,8 @@ This is the current (as of 7/17/26) planned roadmap for OASIS II. Anything here 
 - Upload/Defense objective type **(done)**
 	- Both of these only involve the classic servers that were used for these in Tokyo right now, but want to expand these objectives to other objects later
 - Third region (+ related traders)
-- Upgradeable stash rows (via a trader)
+- Upgradeable stash rows (via a trader) **(done)**
+	- Certain traders will have a shop upgrade level that will add stash rows. There may also be quests that provide stash rows as a reward as well.
 - Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable)
 - Multi-mode gadget attachment type (dbal reimplementation)
 - New ammo types (incendiary, match, ???)
