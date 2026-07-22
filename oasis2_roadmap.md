@@ -45,7 +45,9 @@ This is the current (as of 7/22/26) planned roadmap for OASIS II. Anything here 
 	- Certain traders will have a shop upgrade level that will add stash rows. There may also be quests that provide stash rows as a reward as well.
 - Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable)
 - Multi-mode gadget attachment type (dbal reimplementation) **(done)**
-- New ammo types (incendiary, match, ???)
+- New ammo types (incendiary, match, ???) **(done)**
+	- 5 ammo types currently exist for non-shotgun weapons: FMJ (default/normal), AP, JHP, Incendiary (new), Match (new)
+	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
 - Potentionally a public playtest of some form (unsure)
 
 ## 0.4 - End of Winter 2026/Early Spring 2027
