@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 7/22/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 7/26/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -25,7 +25,7 @@ This is the current (as of 7/22/26) planned roadmap for OASIS II. Anything here 
 - Profile/save creation options (hardcore, sandbox, etc) **(done)**
 - Second region (+ related traders) **(done)**
 
-## 0.3 (Current) - ~September-October 2026
+## 0.3 (Current) - ~September/October 2026
 - Alert system **(done)**
 	- Is a reworked version of the alert level found in endgame/oasis hunt of Tokyo implemented into the main game. Will basically work as a "soft time limit" for missions, encouraging you to complete the mission then leave, rather than loot everything in the entire level for 5 minutes after the main enemies are dead.
 	- Similar to the alert level in Tokyo, after a period of time, new enemies will begin repeatedly spawning into the level to hunt you. These enemies will typically be much harder than the mission's normal enemies, and will also vary depending on the current region and its current alert level.
@@ -43,12 +43,12 @@ This is the current (as of 7/22/26) planned roadmap for OASIS II. Anything here 
 - Third region (+ related traders)
 - Upgradeable stash rows (via a trader) **(done)**
 	- Certain traders will have a shop upgrade level that will add stash rows. There may also be quests that provide stash rows as a reward as well.
-- Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable)
+- Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable) **(partially finished, currency conversion is implemented)**
 - Multi-mode gadget attachment type (dbal reimplementation) **(done)**
 - New ammo types (incendiary, match, ???) **(done)**
 	- 5 ammo types currently exist for non-shotgun weapons: FMJ (default/normal), AP, JHP, Incendiary (new), Match (new)
 	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
-- Potentionally a public playtest of some form (unsure)
+- Potentionally a public playtest of some form (unsure, considering doing occasional public playtests focusing on certain aspects of the game)
 
 ## 0.4 - End of Winter 2026/Early Spring 2027
 - Hacking system 
@@ -58,9 +58,9 @@ This is the current (as of 7/22/26) planned roadmap for OASIS II. Anything here 
 - New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump)
 - Defuse objective type
 - Cluster objective type
-- Brand new objective type (have a couple ideas, tbd which one)
+- Brand new objective type (have a couple feasible ideas, tbd which one ill actually do)
 - ???
-- Potential early access launch (still undecided, maybe a playtest instead if i decided against it during 0.3, or maybe i'll do quarterly-ish limited playtests alongside big milestones? idk again unsure at this point in time what i wanna do)
+- Potential early access launch (still undecided)
 
 ## 0.5 - ??? 2027
 - Weather system/visuals (rain, etc)
