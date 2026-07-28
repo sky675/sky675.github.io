@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv1.png
 ---
 
-This is the current (as of 7/26/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 7/27/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -37,6 +37,7 @@ This is the current (as of 7/26/26) planned roadmap for OASIS II. Anything here 
 - Double barrel shotgun **(done)**
 - AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
 - PM-9 smg (features sight and suppressor att slots that weren't in tokyo) **(done)**
+- Small M4 expansion (9mm mag insert using pm9 mag maybe, variable barrel lengths)
 - Destruction objective type **(done)**
 - Upload/Defense objective type **(done)**
 	- Both of these only involve the classic servers that were used for these in Tokyo right now, but want to expand these objectives to other objects later
