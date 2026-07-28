@@ -54,15 +54,15 @@ This is the current (as of 7/27/26) planned roadmap for OASIS II. Anything here 
 ## 0.4 - End of Winter 2026/Early Spring 2027
 - Hacking system 
 	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details will be announced in a future dev blog
+- Some form of "welfare" system (eg tarkov scavs)
+	- I run out of gear and money fairly often currently when playtesting solo, so something like this is definitely necessary, a free knife is not enough for this game lol
+	- Probably something like a free loadout? Weekly(?) cooldown that also resets on death. Given by various traders.
 - New map type (tbd)
 - Grenade reimplementation
 - New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump)
 - Defuse objective type
 - Cluster objective type
 - Brand new objective type (have a couple feasible ideas, tbd which one ill actually do)
-- Some form of "welfare" system (eg tarkov scavs)
-	- I run out of gear and money fairly often currently when playtesting solo, so something like this is definitely necessary lol
-	- Probably something like a free loadout? Weekly(?) cooldown that also resets on death
 - ???
 - Potential early access launch (still undecided)
 
