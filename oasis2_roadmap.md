@@ -12,6 +12,9 @@ header:
 
 This is the current (as of 7/28/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
+## Latest Updates
+(7/28) Passive V-Mon gain has been implemented! It's a crypto-mining type of thing, a trader sets you up with a rig. How it works is: after a couple days you'll gain a varied amount of V-Mon. You'll need to head back to her in order to collect what you've gained though, the truck isn't capable of outputting the power it requires. It will continue to work if you don't visit her though, so you can miss multiple payouts and collect them later.
+
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
 - Warehouses map type **(done)**
