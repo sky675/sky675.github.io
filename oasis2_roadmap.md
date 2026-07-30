@@ -13,6 +13,10 @@ header:
 This is the current (as of 7/29/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(7/30)
+- Finished the Kansai traders (for now) and as such, 0.3 is finished!
+- Removed misc details from 0.3 elements
+
 (7/29) 
 - Moved potential public playtest to 0.4 (I still have some playtest keys intended for private tests though, if you ask nicely I'll give you one if you want it! I just don't think its completely ready for absolutely anyone to play this yet.)
 - Adjusted details about the 0.4 "welfare system" (later traders will give better free gear)
@@ -37,24 +41,16 @@ Passive V-Mon gain has been implemented! It's a crypto-mining type of thing, a t
 - Profile/save creation options (hardcore, sandbox, etc) **(done)**
 - Second region (+ related traders) **(done)**
 
-## 0.3 (Current) - ~August 2026
+## 0.3 (Current) - Done
 - Alert system **(done)**
-	- Is a reworked version of the alert level found in endgame/oasis hunt of Tokyo implemented into the main game. Will basically work as a "soft time limit" for missions, encouraging you to complete the mission then leave, rather than loot everything in the entire level for 5 minutes after the main enemies are dead.
-	- Similar to the alert level in Tokyo, after a period of time, new enemies will begin repeatedly spawning into the level to hunt you. These enemies will typically be much harder than the mission's normal enemies, and will also vary depending on the current region and its current alert level.
-	- Completing missions and leaving them quickly will reduce the alert level gained per mission. Killing the alert level enemies will further increase the region's alert level. The alert level of regions will also go down naturally over time (you may eventually also be able to pay a specific trader to reduce the alert level of a region as well).
-	- I'm against adding a "hard" time limit (eg: "MIA" status), but I do think somewhat restricting the amount of time you're in a single mission is good, so this is my solution for that.
 - Setup for potential localization **(done)**
-	- Will probably start a crowdin project when I decide the game is ready for a public playtest, cannot afford paying for localization atm so I'd be grateful for help with this.
-	- If you'd like to help translating the game (or the store page too) in your language before then, please get in touch via Discord or my email!
 - Double barrel shotgun **(done)**
 - AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
 - PM-9 smg (features sight and suppressor att slots that weren't in tokyo) **(done)**
 - Destruction objective type **(done)**
 - Upload/Defense objective type **(done)**
-	- Both of these only involve the classic servers that were used for these in Tokyo right now, but want to expand these objectives to other objects later
-- Third region (+ related traders) **(partially finished, still need to create the scene for the 2nd trader in this region)**
+- Third region (+ related traders) **(done)**
 - Upgradeable stash rows (via a trader) **(done)**
-	- Certain traders will have a shop upgrade level that will add stash rows. There may also be quests that provide stash rows as a reward as well.
 - Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable) **(done)**
 - Multi-mode gadget attachment type (dbal reimplementation) **(done)**
 - New ammo types (incendiary, match, ???) **(done)**
