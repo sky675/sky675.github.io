@@ -10,9 +10,14 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 7/29/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/2/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/2)
+- First thing for 0.4, sped up the makarov reload animations by around 25%, haven't done any real missions with it yet, but it does feel moderately better just shooting and reloading
+- Did a bunch of AI behaviour stuff last night, made a few new micro and macro types and distributed them where appropriate in the factions (each faction should be more distinct, even moreso than in tokyo)
+- New factions - corporate security (including Kage security for the Kage map type), PMCs (new for 2, these are foreign pmcs, hired by whoever, gameplay wise they're a bit of a mix between gang and sectcom, they're generally more aggressive than sectcom, but not too aggressive)
+
 (7/30)
 - Finished the Kansai traders (for now) and as such, 0.3 is finished!
 - Removed misc details from 0.3 elements
@@ -24,9 +29,6 @@ This is the current (as of 7/29/26) planned roadmap for OASIS II. Anything here 
 - Added a basically blank 0.6 entry
 - Changed new map type to include potential map expansion instead
 - New banner :)
-
-(7/28) 
-Passive V-Mon gain has been implemented! It's a crypto-mining type of thing, a trader sets you up with a rig. How it works is: after a couple days you'll gain a varied amount of V-Mon. You'll need to head back to her in order to collect what you've gained though, the truck isn't capable of outputting the power it requires. It will continue to work if you don't visit her though, so you can miss multiple payouts and collect them later.
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -65,8 +67,16 @@ Passive V-Mon gain has been implemented! It's a crypto-mining type of thing, a t
 	- Weekly(?) cooldown that also resets on death. Given by various traders, loadout varies depending on the trader (later traders will give better gear).
 - New map type (tbd)
 - Grenade reimplementation
-- Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons)
+- Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons) **(done, its about 25% faster now)**
 - New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump)
+- New AI behaviour/types: **(done)**
+	- Camper (they'll just hold in cover, instead of pushing after a few seconds)
+	- "Simple" (doesn't use cover to reload/heal)
+	- Flank (when set, ai can (try) to flank the target when they're out of strafing range)
+	- Follower (patrols around group leader)
+	- Defense (when the ai hears something, it will instruct another member of the group to investigate it instead, it can also investigate it with them)
+	- AI now have the option of shooting while chasing if they aren't sprinting (previously they couldn't)
+- New factions (corporate security (generic), PMC) **(done)** 
 - Defuse objective type
 - Cluster objective type
 - Brand new objective type (have a couple feasible ideas, tbd which one ill actually do)
