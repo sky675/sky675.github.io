@@ -10,9 +10,12 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/2/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/3/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/3)
+- Implemented a free loadout container, actual implementation is slightly different than originally described, and has been changed accordingly: the only way to get it is by dying, it does not reset over time
+
 (8/2)
 - First thing for 0.4, sped up the makarov reload animations by around 25%, haven't done any real missions with it yet, but it does feel moderately better just shooting and reloading
 - Did a bunch of AI behaviour stuff last night, made a few new micro and macro types and distributed them where appropriate in the factions (each faction should be more distinct, even moreso than in tokyo)
@@ -62,9 +65,9 @@ This is the current (as of 8/2/26) planned roadmap for OASIS II. Anything here i
 ## 0.4 - End of Winter 2026
 - Hacking system 
 	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details will be announced in a future dev blog
-- Some form of "welfare" system (free loadout)
+- Some form of "welfare" system (free loadout) **(done)**
 	- I run out of gear and money fairly often currently when playtesting solo, so something like this is definitely necessary, a free knife is not enough for this game lol
-	- Weekly(?) cooldown that also resets on death. Given by various traders, loadout varies depending on the trader (later traders will give better gear).
+	- Available after every death. Given by various traders, loadout varies depending on the trader (later traders will give better gear).
 - New map type (tbd)
 - Grenade reimplementation
 - Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons) **(done, its about 25% faster now)**
