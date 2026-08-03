@@ -14,7 +14,7 @@ This is the current (as of 8/3/26) planned roadmap for OASIS II. Anything here i
 
 ## Latest Updates
 (8/3)
-- Implemented a free loadout container, actual implementation is slightly different than originally described, and has been changed accordingly: the only way to get it is by dying, it does not reset over time
+- Implemented a free loadout container, actual implementation is slightly different than originally described, and has been changed accordingly: the only way to get a loadout from it is by dying, it does not reset over time
 
 (8/2)
 - First thing for 0.4, sped up the makarov reload animations by around 25%, haven't done any real missions with it yet, but it does feel moderately better just shooting and reloading
