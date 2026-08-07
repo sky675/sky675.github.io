@@ -10,9 +10,12 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/3/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/7/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/7)
+- Hacking mechanics mostly done, two primary things left: enemy hackers and dynamic tower generation, then next will be some starting content for it. Expect a blog post in a week or so going over the new mechanics, probably a new preview video too
+
 (8/3)
 - Implemented a free loadout container, actual implementation is slightly different than originally described, and has been changed accordingly: the only way to get a loadout from it is by dying, it does not reset over time
 
@@ -63,7 +66,7 @@ This is the current (as of 8/3/26) planned roadmap for OASIS II. Anything here i
 	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
 
 ## 0.4 - End of Winter 2026
-- Hacking system 
+- Hacking system **(in progress)**
 	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details will be announced in a future dev blog
 - Some form of "welfare" system (free loadout) **(done)**
 	- I run out of gear and money fairly often currently when playtesting solo, so something like this is definitely necessary, a free knife is not enough for this game lol
