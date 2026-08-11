@@ -10,9 +10,13 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/7/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/11)
+- Finishing up hacking took a lot longer than expected lol. Very happy with how it turned out! Still expect a blog post/video in a week or so (from today tho). The post is mostly written, but I want a few more new things before I do a new build to collect footage from. (probably grenades next)
+- Added exports to 0.5 (may end up moving it to 0.4, but idk)
+
 (8/7)
 - Hacking mechanics mostly done, two primary things left: enemy hackers and dynamic tower generation, then next will be some starting content for it. Expect a blog post in a week or so going over the new mechanics, probably a new preview video too
 
@@ -66,7 +70,7 @@ This is the current (as of 8/7/26) planned roadmap for OASIS II. Anything here i
 	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
 
 ## 0.4 - End of Winter 2026
-- Hacking system **(in progress)**
+- Hacking system **(done)**
 	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details will be announced in a future dev blog
 - Some form of "welfare" system (free loadout) **(done)**
 	- I run out of gear and money fairly often currently when playtesting solo, so something like this is definitely necessary, a free knife is not enough for this game lol
@@ -95,6 +99,8 @@ This is the current (as of 8/7/26) planned roadmap for OASIS II. Anything here i
 	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather like snow.
 - Stocks system 
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
+- Exports system
+	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks. This time they'll be sold in in-game time instead of IRL time.
 - New map type/existing expansion (tbd)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type-89, p22x(?), saiga/sk-12)
 - ???
