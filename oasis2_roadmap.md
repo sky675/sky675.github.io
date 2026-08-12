@@ -16,6 +16,9 @@ This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here 
 (8/11)
 - Finishing up hacking took a lot longer than expected lol. Very happy with how it turned out! Still expect a blog post/video in a week or so (from today tho). The post is mostly written, but I want a few more new things before I do a new build to collect footage from. (probably grenades next)
 - Added exports to 0.5 (may end up moving it to 0.4, but idk)
+(later in the day)
+- After investigating grenades, I've decided to shelve them for now. My primary reason for this is I'm not the biggest fan of only players being able to use them, but I cannot currently think of a way for bots to throw them (without them killing themselves with them 90% of the time due to how they can move). I think my time could be better spent on other aspects of the game first, and then coming back to grenades later once the game is closer to release and most of Tokyo's arsenal has been reimplemented. So instead, I've added the VZ82 to the weapon list for this milestone (so 9x18 has an SMG). As such, my focus is now: K71 (or whatever its name will be now), then implementing Defuse (I've already imported the EMP model, I just need to script it) and *maybe* the new objective type idea.
+- Also, decided on which idea to use for this one, and added some details about the idea.
 
 (8/7)
 - Hacking mechanics mostly done, two primary things left: enemy hackers and dynamic tower generation, then next will be some starting content for it. Expect a blog post in a week or so going over the new mechanics, probably a new preview video too
@@ -76,9 +79,8 @@ This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here 
 	- I run out of gear and money fairly often currently when playtesting solo, so something like this is definitely necessary, a free knife is not enough for this game lol
 	- Available after every death. Given by various traders, loadout varies depending on the trader (later traders will give better gear).
 - New map type (tbd)
-- Grenade reimplementation
 - Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons) **(done, its about 25% faster now)**
-- New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump)
+- New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump, vz (9x18))
 - New AI behaviour/types: **(done)**
 	- Camper (they'll just hold in cover, instead of pushing after a few seconds)
 	- "Simple" (doesn't use cover to reload/heal)
@@ -89,7 +91,9 @@ This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here 
 - New factions (corporate security (generic), PMC) **(done)** 
 - Defuse objective type
 - Cluster objective type
-- Brand new objective type (have a couple feasible ideas, tbd which one ill actually do)
+- Brand new objective type (for now, calling it "Transmit", but it may have multiple names)
+	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission
+	- You may need to either find the items in the level, or have the items available at the start of the mission and need to find the entity, or maybe both, depending on the configuration of the objective.
 - ???
 - Potentionally a public playtest of some form (unsure when)
 
