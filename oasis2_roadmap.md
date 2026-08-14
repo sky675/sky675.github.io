@@ -10,9 +10,14 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/14/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/14)
+- Added a second pistol, decided to just call it the G17 this time instead of K71 (seems fine lol), as well as the G18 to go with it. They currently only have the standard and aftermarket mags, I've decided to skip the bigger extended mag for now - I'll add it in the future if I can get changing item size via equipped magazine working in a way I'm happy with.
+- Finished one last thing I forgot for hacking: a stat for hacking. Most interfaces will require a certain stat level to equip (though there is a beginner one that doesn't).
+Will likely do a new build sometime over the next day, planning for video/post on Monday atm
+
 (8/11)
 - Finishing up hacking took a lot longer than expected lol. Very happy with how it turned out! Still expect a blog post/video in a week or so (from today tho). The post is mostly written, but I want a few more new things before I do a new build to collect footage from. (probably grenades next)
 - Added exports to 0.5 (may end up moving it to 0.4, but idk)
@@ -30,18 +35,6 @@ This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here 
 - First thing for 0.4, sped up the makarov reload animations by around 25%, haven't done any real missions with it yet, but it does feel moderately better just shooting and reloading
 - Did a bunch of AI behaviour stuff last night, made a few new micro and macro types and distributed them where appropriate in the factions (each faction should be more distinct, even moreso than in tokyo)
 - New factions - corporate security (including Kage security for the Kage map type), PMCs (new for 2, these are foreign pmcs, hired by whoever, gameplay wise they're a bit of a mix between gang and sectcom, they're generally more aggressive than sectcom, but not too aggressive)
-
-(7/30)
-- Finished the Kansai traders (for now) and as such, 0.3 is finished!
-- Removed misc details from 0.3 elements
-
-(7/29) 
-- Moved potential public playtest to 0.4 (I still have some playtest keys intended for private tests though, if you ask nicely I'll give you one if you want it! I just don't think its completely ready for absolutely anyone to play this yet.)
-- Adjusted details about the 0.4 "welfare system" (later traders will give better free gear)
-- Added Makarov animation adjustments to 0.4
-- Added a basically blank 0.6 entry
-- Changed new map type to include potential map expansion instead
-- New banner :)
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -80,7 +73,8 @@ This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here 
 	- Available after every death. Given by various traders, loadout varies depending on the trader (later traders will give better gear).
 - New map type (tbd)
 - Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons) **(done, its about 25% faster now)**
-- New weapons (tbd, probably the k71 (may use a new name for it lol), m1911 and ump, vz (9x18))
+- G17 pistol **(done)**
+- New weapons (tbd, m1911 and ump, vz (9x18))
 - New AI behaviour/types: **(done)**
 	- Camper (they'll just hold in cover, instead of pushing after a few seconds)
 	- "Simple" (doesn't use cover to reload/heal)
@@ -94,7 +88,6 @@ This is the current (as of 8/11/26) planned roadmap for OASIS II. Anything here 
 - Brand new objective type (for now, calling it "Transmit", but it may have multiple names)
 	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission
 	- You may need to either find the items in the level, or have the items available at the start of the mission and need to find the entity, or maybe both, depending on the configuration of the objective.
-- ???
 - Potentionally a public playtest of some form (unsure when)
 
 ## 0.5 - ??? 2027
