@@ -10,9 +10,12 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/14/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/15/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/15)
+- Wasn't planning to add an update today, but I implemented a quick new idea I had: there is now a delay before inserting a new mag! This delay is dependent on the mag and is also affected by the inventory the inv is in (vests will be faster than pockets), generally its around 0.2-0.4 seconds of delay, with 50+ round mags having 0.5+ seconds (the standard makarov mag is instant, so unchanged). Bots are also affected by this, though without the inventory part.
+
 (8/14)
 - Added a second pistol, decided to just call it the G17 this time instead of K71 (seems fine lol), as well as the G18 to go with it. They currently only have the standard and aftermarket mags, I've decided to skip the bigger extended mag for now - I'll add it in the future if I can get changing item size via equipped magazine working in a way I'm happy with.
 - Finished one last thing I forgot for hacking: a stat for hacking. Most interfaces will require a certain stat level to equip (though there is a beginner one that doesn't).
@@ -75,6 +78,7 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons) **(done, its about 25% faster now)**
 - G17 pistol **(done)**
 - New weapons (tbd, m1911 and ump, vz (9x18))
+- Short mag-based delay when reloading
 - New AI behaviour/types: **(done)**
 	- Camper (they'll just hold in cover, instead of pushing after a few seconds)
 	- "Simple" (doesn't use cover to reload/heal)
