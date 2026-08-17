@@ -14,7 +14,12 @@ This is the current (as of 8/17/26) planned roadmap for OASIS II. Anything here 
 
 ## Latest Updates
 (8/17)
-I ran into a few issues trying to record footage this weekend. As such, video is delayed since I had to fix those issues (still aiming for this week though). I decided to work on the objective types planned for this milestone after that. I did the defuse entity type yesterday, so I'll try to include defuse gameplay in the video. Today, I'm planning to do Cluster (which should be relatively simple to implement), and the new objective type (should also be relatively simple).
+- I ran into a few issues trying to record footage this weekend. As such, video is delayed since I had to fix those issues (still aiming for this week though). I decided to work on the objective types planned for this milestone after that. I did the defuse entity type yesterday, so I'll try to include defuse gameplay in the video.
+- Cluster is also now implemented, and as such all main objectives from Tokyo have been implemented! Cluster is slightly different than it was in Tokyo: The central server has been removed from the objective, its just the multiple mini-Upload objectives now. 
+- Also, the new objective will have 2 main names, depending on its configuration: 
+1. Transmit, in this version there is one entity that items need to be turned into (typically at the beginning of the mission), and those items need to be found in the mission. 
+2. DeadDrop, in this version a container is placed in the entrance room with items in it, and those items need to be delivered to multiple entities throughout the level.
+There's a third potential configuration - needing to find both the items and multiple entities in the level - but I don't have a name for it at the moment.
 
 (8/15)
 - Wasn't planning to add an update today, but I implemented a quick new idea I had: there is now a delay before inserting a new mag! This delay is dependent on the mag and is also affected by the inventory the inv is in (vests will be faster than pockets), generally its around 0.2-0.4 seconds of delay, with 50+ round mags having 0.5+ seconds (the standard makarov mag is instant, so unchanged). Bots are also affected by this, though without the inventory part.
@@ -90,8 +95,8 @@ Will likely do a new build sometime over the next day, planning for video/post o
 	- Defense (when the ai hears something, it will instruct another member of the group to investigate it instead, it can also investigate it with them)
 	- AI now have the option of shooting while chasing if they aren't sprinting (previously they couldn't)
 - New factions (corporate security (generic), PMC) **(done)** 
-- Defuse objective type
-- Cluster objective type
+- Defuse objective type **(done)**
+- Cluster objective type **(done)** (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now)
 - Brand new objective type (for now, calling it "Transmit", but it may have multiple names)
 	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission
 	- You may need to either find the items in the level, or have the items available at the start of the mission and need to find the entity, or maybe both, depending on the configuration of the objective.
