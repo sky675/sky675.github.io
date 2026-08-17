@@ -10,9 +10,12 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/15/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/17/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/17)
+I ran into a few issues trying to record footage this weekend. As such, video is delayed since I had to fix those issues (still aiming for this week though). I decided to work on the objective types planned for this milestone after that. I did the defuse entity type yesterday, so I'll try to include defuse gameplay in the video. Today, I'm planning to do Cluster (which should be relatively simple to implement), and the new objective type (should also be relatively simple).
+
 (8/15)
 - Wasn't planning to add an update today, but I implemented a quick new idea I had: there is now a delay before inserting a new mag! This delay is dependent on the mag and is also affected by the inventory the inv is in (vests will be faster than pockets), generally its around 0.2-0.4 seconds of delay, with 50+ round mags having 0.5+ seconds (the standard makarov mag is instant, so unchanged). Bots are also affected by this, though without the inventory part.
 
