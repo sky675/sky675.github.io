@@ -10,16 +10,19 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/17/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/18/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/18)
+Finished Transmit and its alternate types! I've removed the explanation from yesterday since its slightly different from the actual implementation:
+- Transmit: Items are placed in a container at the beginning of the level, need to find where to deliver it to inside the level
+- DeadDrop: Items are placed throughout the level, need to find them and deliver it to something at the beginning of the level
+- Scatter: Items are placed throughout the level, as well as the entity or entities that they need to be delivered to
+Also added some more items that have been in the milestone for 0.4, but wasn't here publicly.
+
 (8/17)
 - I ran into a few issues trying to record footage this weekend. As such, video is delayed since I had to fix those issues (still aiming for this week though). I decided to work on the objective types planned for this milestone after that. I did the defuse entity type yesterday, so I'll try to include defuse gameplay in the video.
-- Cluster is also now implemented, and as such all main objectives from Tokyo have been implemented! Cluster is slightly different than it was in Tokyo: The central server has been removed from the objective, its just the multiple mini-Upload objectives now. 
-- Also, the new objective will have 2 main names, depending on its configuration: 
-1. Transmit, in this version there is one entity that items need to be turned into (typically at the beginning of the mission), and those items need to be found in the mission. 
-2. DeadDrop, in this version a container is placed in the entrance room with items in it, and those items need to be delivered to multiple entities throughout the level.
-There's a third potential configuration - needing to find both the items and multiple entities in the level - but I don't have a name for it at the moment.
+- Cluster is also now implemented, and as such all main objectives from Tokyo have been implemented! Cluster is slightly different than it was in Tokyo: The central server has been removed from the objective, its just the multiple mini-Upload objectives now.
 
 (8/15)
 - Wasn't planning to add an update today, but I implemented a quick new idea I had: there is now a delay before inserting a new mag! This delay is dependent on the mag and is also affected by the inventory the inv is in (vests will be faster than pockets), generally its around 0.2-0.4 seconds of delay, with 50+ round mags having 0.5+ seconds (the standard makarov mag is instant, so unchanged). Bots are also affected by this, though without the inventory part.
@@ -85,8 +88,8 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - New map type (tbd)
 - Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons) **(done, its about 25% faster now)**
 - G17 pistol **(done)**
-- New weapons (tbd, m1911 and ump, vz (9x18))
-- Short mag-based delay when reloading
+- New weapons (m1911 and ump, vz (9x18))
+- Short mag-based delay when reloading **(done)**
 - New AI behaviour/types: **(done)**
 	- Camper (they'll just hold in cover, instead of pushing after a few seconds)
 	- "Simple" (doesn't use cover to reload/heal)
@@ -97,9 +100,12 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - New factions (corporate security (generic), PMC) **(done)** 
 - Defuse objective type **(done)**
 - Cluster objective type **(done)** (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now)
-- Brand new objective type (for now, calling it "Transmit", but it may have multiple names)
-	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission
-	- You may need to either find the items in the level, or have the items available at the start of the mission and need to find the entity, or maybe both, depending on the configuration of the objective.
+- Brand new objective type **(done)** (split into 3 different objectives: Transmit, DeadDrop, and Scatter)
+	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission, but where the items are and where the entity (or entities) are vary depending on the type
+- Finishing a certain trader's scene (adding gambling-type minigames to it because I thought it'd be fun)
+- Some way to manually skip time (host only)
+- Burst fire for weapons that should have it (I skipped implementing it initially)
+- The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground)
 - Potentionally a public playtest of some form (unsure when)
 
 ## 0.5 - ??? 2027
