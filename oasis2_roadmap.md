@@ -19,6 +19,9 @@ Finished Transmit and its alternate types! I've removed the explanation from yes
 - DeadDrop: Items are placed throughout the level, need to find them and deliver it to something at the beginning of the level
 - Scatter: Items are placed throughout the level, as well as the entity or entities that they need to be delivered to
 Also added some more items that have been in the milestone for 0.4, but wasn't here publicly.
+(later in the day)
+- Implemented most of what I added earlier. In terms of features, the milestone is done! But there's still content that needs to be produced before I think about whether its ready for a public playtest or not. Regardless, going to work on this month's blog post/video for now, and get back to them after that.
+- Also added a few new quests (there are currently 23 quests)
 
 (8/17)
 - I ran into a few issues trying to record footage this weekend. As such, video is delayed since I had to fix those issues (still aiming for this week though). I decided to work on the objective types planned for this milestone after that. I did the defuse entity type yesterday, so I'll try to include defuse gameplay in the video.
@@ -99,13 +102,13 @@ Will likely do a new build sometime over the next day, planning for video/post o
 	- AI now have the option of shooting while chasing if they aren't sprinting (previously they couldn't)
 - New factions (corporate security (generic), PMC) **(done)** 
 - Defuse objective type **(done)**
-- Cluster objective type **(done)** (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now)
-- Brand new objective type **(done)** (split into 3 different objectives: Transmit, DeadDrop, and Scatter)
+- Cluster objective type (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now) **(done)**
+- Brand new objective type (split into 3 different objectives: Transmit, DeadDrop, and Scatter) **(done)**
 	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission, but where the items are and where the entity (or entities) are vary depending on the type
 - Finishing a certain trader's scene (adding gambling-type minigames to it because I thought it'd be fun)
-- Some way to manually skip time (host only)
-- Burst fire for weapons that should have it (I skipped implementing it initially)
-- The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground)
+- Some way to manually skip time (host only) **(done)**
+- Burst fire for weapons that should have it (I skipped implementing it initially) **(done)**
+- The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground) **(done)**
 - Potentionally a public playtest of some form (unsure when)
 
 ## 0.5 - ??? 2027
