@@ -10,9 +10,12 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/18/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/21/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+(8/21)
+- Adjusted some future milestones. Ran into issues recording hacking (again), but should be finally good enough, the blog post/video is otherwise ready/recorded, expect it sometime during the weekend (i'll try not to get *that* distracted by stalker 2 dlc and mw4 beta lol)
+
 (8/18)
 Finished Transmit and its alternate types! I've removed the explanation from yesterday since its slightly different from the actual implementation:
 - Transmit: Items are placed in a container at the beginning of the level, need to find where to deliver it to inside the level
@@ -118,19 +121,22 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - Stocks system 
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
 - Exports system
-	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks. This time they'll be sold in in-game time instead of IRL time.
+	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
 - New map type/existing expansion (tbd)
-- New weapons (aiming for at least 3 weapons per milestone, currently considering: type-89, p22x(?), saiga/sk-12)
+- New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
 - ???
 
 ## 0.6 - ??? 2027
 - ???
 - New map type/existing expansion (tbd)
-- New weapons (tbd)
+- New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
 - ???
 
 ## Expectation for full release - ??? 2028+
 - Six total regions
 - Main storyline with three endings
 - By this point, everything relevant from Tokyo should be reimplemented (weapons, objectives, etc)
+- Remaining weapons currently not directly on the roadmap (but will be reimplemented in some future milestone):
+	- V45, T95, Grenades
+	- Container weapons could potentially also be added (as the weapons they were based on, not the container weapon versions)
 - ???
