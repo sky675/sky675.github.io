@@ -10,9 +10,13 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/21/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/24/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
+You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(8/24)
+- Updated the future milestones with 0.6 features and some additional stuff in 0.5. Posting the dev-blog for this month with this.
+
 (8/21)
 - Adjusted some future milestones. Ran into issues recording hacking (again), but should be finally good enough, the blog post/video is otherwise ready/recorded, expect it sometime during the weekend (i'll try not to get *that* distracted by stalker 2 dlc and mw4 beta lol)
 
@@ -87,7 +91,7 @@ Will likely do a new build sometime over the next day, planning for video/post o
 
 ## 0.4 - End of Winter 2026
 - Hacking system **(done)**
-	- Will be completely different than Tokyo's hacking mechanics, have a new idea for it. It'll be more focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details will be announced in a future dev blog
+	- Is completely different than Tokyo's hacking mechanics, had a new idea for it. More focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details about it can be read [in this post here](/oasis/oasis-2-august-26)
 - Some form of "welfare" system (free loadout) **(done)**
 	- I run out of gear and money fairly often currently when playtesting solo, so something like this is definitely necessary, a free knife is not enough for this game lol
 	- Available after every death. Given by various traders, loadout varies depending on the trader (later traders will give better gear).
@@ -119,15 +123,29 @@ Will likely do a new build sometime over the next day, planning for video/post o
 	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it completely
 	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather like snow.
 - Stocks system 
-	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and quests
+	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and certain quests
 - Exports system
 	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
+- Hacking expansion (new interface + set of programs)
 - New map type/existing expansion (tbd)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
+- More advanced hitbox script (intended for the head, but may be added to other parts in the future): Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
+- HUD cyberware expansion
+	- Overview AUX hud (shows the health of teammates)
+	- SmartVision (potentially, will be part of a base cyberware and not a mod)
+	- Advanced weapon hud (shows mags/ammo left)
+	- ???
 - ???
 
 ## 0.6 - ??? 2027
-- ???
+- Raid/Strike team event type 
+	- Rival/enemy-unrelated AI squads may randomly spawn in a mission, with a desired goal, who will then retreat after completing that goal (or after taking too many casualities)
+	- These squads' objectives occasionally might conflict with yours, and may cause a mission fail if their objective is completed before yours
+	- Potential objectives will range from killing a certain amount of the mission's factions ai (where ones they kill won't count as a kill for you), to taking retrieval/objective items (they'll have an inventory to be able to get them back), or completely unrelated objectives such as reaching and investigating various parts of the level.
+- Hacking expansion (Peripheral floors)
+	- This will introduce new elements to levels (cameras, perhaps turrets, more) that can be controlled via hacking
+	- If an enemy hacker/daemon is active in the network, it will control these peripherals (cameras will direct hostiles to you, turrets will, well, shoot you, etc), you can either destroy the peripherals physically (after which nobody can use them) or reach that point in the network to take it over and prevent the enemy from using it (typically they'll be in the global tower)
+	- The floor will allow you to control the elements yourself (being able to see through the camera, turning on/off the turret + switching its iff, etc)
 - New map type/existing expansion (tbd)
 - New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
 - ???
@@ -136,7 +154,7 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - Six total regions
 - Main storyline with three endings
 - By this point, everything relevant from Tokyo should be reimplemented (weapons, objectives, etc)
-- Remaining weapons currently not directly on the roadmap (but will be reimplemented in some future milestone):
+- Remaining weapons from Tokyo currently not mentioned on the roadmap (but will be reimplemented in some future milestone):
 	- V45, T95, Grenades
-	- Container weapons could potentially also be added (as the weapons they were based on, not the container weapon versions)
+	- Container weapons could potentially also be added (as in the weapons they were based on, not the container weapons themselves)
 - ???

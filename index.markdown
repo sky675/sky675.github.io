@@ -10,7 +10,7 @@ masthead_title: Homepage
 tagline: >- 
   I'm sky, currently a solo game developer. I am primarily a programmer and game designer, and specifically enjoy trying to create unique spins on the FPS genre. I also have a major interest in game AI (the traditional kind, like bots in old multiplayer games).
   <br><br>
-  I have around 7 years of solo experience with Unity and C# (started ~2016), and began working in Godot (using GDScript) as my primary engine in 2024. I also have experience with Lua from my Garry's Mod days.
+  I have around 7 years of solo experience with Unity and C# (started ~2016), and began using Godot (using GDScript) as my primary engine in 2024. I also have experience with Lua from my Garry's Mod server days.
   <br><br>
   Below you can find a portfolio of projects I've worked on!<br>In the navigation above you can also find my blog posts. I try to post one monthly, though they're primarily about what I've been working on.
 header:
@@ -21,14 +21,14 @@ header:
      label: "Contact Email"
 ---
 
-## OASIS: Tokyo - Solo Developed
+## OASIS: Tokyo - Solo Developed, Unity (2020-2024)
 ![oasis](/assets/images/vlcsnap-2023-05-30-19h02m20s512.png)
 
 [OASIS](https://store.steampowered.com/app/2531340) is a semi-tactical FPS with rogue-lite elements set in a cyberpunk version of Japan with a focus on inventory management. In it, you need to increase your reputation in the underworld in order to find the fabled "Oasis", a hidden location shrouded in mystery. While doing this, you must contend with limited inventory space and need to balance sufficient ammo and meds with extra bag space for loot.
 
 This was my first commerical project I've released and was made with Unity. About 95% of scripts the game uses was written by me from scratch over the span of about 3 years, including the menus, enemy AI, weapon functionality, and inventory systems.
 
-## OASIS II - Solo (In Development)
+## OASIS II - Solo (In Development), Godot (2025-)
 ![oasis2](/assets/images/posts/oasis2_blog11/4k_screenshot.png)
 
 [OASIS II](https://store.steampowered.com/app/4883680) is a prequel to OASIS: Tokyo currently in development. Similar to its predecessor, it is a single-player/co-op semi-tactical FPS featuring elements inspired by extraction shooters and rogue-likes in a sci-fi cyberpunk setting. You play as part of an outfit of mercenaries, taking various "under the table" jobs from corporations, criminal organizations, and anyone else who's willing to pay. 
@@ -37,41 +37,41 @@ You'll travel across a near-future alternate-history Japan in your Mobile Operat
 
 You can read more about the game [in my blog post here](/oasis/oasis-2-dev-blog-9). I've been periodically posting updates on the game's development on my blog on this site. I've also created a roadmap [here](/oasis2_roadmap.md)
 
-## Dyskairos - Solo Developed
+## Dyskairos - Solo Developed, Godot (2024-2025)
 ![dys](/assets/images/vlcsnap-2025-01-28-03h18m34s404.png)
 
 [Dyskairos](https://store.steampowered.com/app/3463170) is a metroidvania-inspired FPS with roguelike features. You find yourself trapped in the vicinity of a mysterious tower and must find a valuable material stored at the top of the tower in order to escape. In order to climb it, you'll need to adapt to find a way to the next floor and then back out of the tower before the tower's cycle finishes - which will shuffle the items inside around.
 
 This is my second commercial project. It's my first major project in Godot. Development technically started in late 2023 after experimenting with the engine (due to the pricing scandal happening then), but was sidelined in order to create post-launch content for OASIS. I returned to this while working on OASIS: Tokyo v1.4 (starting around October 2024, with it becoming my main focus once that was released in November).
 
-I started this project with the goal of creating as many assets as possible myself. The only models in the project that weren't made by me are environment props (save for one enemy and half of another enemy).
+I started this project with the goal of creating as many assets as possible myself. The only models in the project that weren't made by me are the environment props, one enemy and half of another enemy.
 
-## Digidrone - Game Jam Game
+## Digidrone - Game Jam Game, Godot (2024)
 ![digidrone](/assets/images/digidrone_FXP1eLm6Zf.png)
 
 [Digidrone](https://sky675.itch.io/digidrone) was made for the GMTK 2024 game jam with [a friend of mine](https://github.com/NateStanley). It's a short (<10 min) puzzle game where you play as two robots navigating a post-apocalyptic environment. 
 
 I handled most of the coding (excluding the intro UI and the audio log playing UI) as well as created the map, designed the puzzles, and sourced sound effects. My friend created the 3d models and other textures. It was my first released project in Godot.
 
-## Iterations - Game Jam Game
+## Iterations - Game Jam Game, Godot (2025)
 (no photo)
 
 [Iterations](https://sky675.itch.io/iterations) was made for the GMTK 2025 game jam with [the same friend of mine](https://github.com/NateStanley). It's an arena shooter roguelite about an AI stuck in an infinite training loop where it is forced to fruitlessly defend its ship from an impending cyber attack.
 
 As with Digidrone, I handled most of the game design, coding (excluding the visuals of the UI), created the map, and sourced textures and sound effects (excluding the VO). It was my first time properly using a CI/CD build workflow in order to easily update the game on itch. Similar workflows are currently being used for my current projects.
 
-## StalkerRP - Community Project
+## StalkerRP - Community Project, Lua (Garry's Mod) (2016-2021)
 ![ppl](/assets/images/hl2_JI82pfAuj2.png){: .align-center}
 
 [This](https://github.com/sky675/srpv5) was a Garry's Mod server/gamemode I developed with the help of [the same friend of mine](https://github.com/NateStanley) which was active from 2016 to 2021 (with some hiatuses). It's a "roleplay" gamemode based on the Stalker game series. 
 
-During the server's life, I created many features that were unique to the server when compared to similar servers at the time, focused mainly on improving the experience of players. Those features also inspired concepts that would later be added to OASIS, other projects and would also be seen in some form in later communities' servers.
+During the server's life, I created many features that were unique to the server when compared to similar servers at the time, focused mainly on improving the experience of players while preserving the freedom of roleplay players had. Those features also inspired concepts that would later be added to OASIS, other projects and would also be seen in some form in later communities' servers.
 
-## Koi - Side Project
+## Koi - Side Project, Godot (2024-)
 ![koi](/assets/images/koi_vXmYK5Pv67.png)
 
-Koi is a side project I've been working on that was originally inspired by the Bot Warfare mods for the older Call of Duty games. In it, I'm creating a moddable offline game inspired by Call of Duty's multiplayer modes, primarily for my desire to watch bots fight (and fight with them) in various gamemodes that aren't in those older CoDs (and also desire for a moddable CoD MP-type game in general, since that doesn't seem to exist at the moment). 
+Koi is a side project I've been working on that was originally inspired by the Bot Warfare mods for the older Call of Duty games. In it, I'm creating a moddable offline game inspired by Call of Duty's multiplayer modes, primarily for my desire to watch bots fight (and fight with them) in various gamemodes that aren't in those older CoDs (and also desire for a moddable CoD MP-type game in general, since that doesn't seem to exist right now). 
 
 I also have the intention of open sourcing it once it's further along (namely, once it has actual player models or at least support for them instead of just the capsules the game currently is using). 
 
-Development has largely been on hiatus at the moment as I'm busy with the OASIS prequel, though said prequel has AI inspired by the [design of the bots](/koi/koi-bots) in this project.
+Development has largely been on hiatus at the moment as I'm busy with OASIS II, though it has AI [partially inspired](/oasis/oasis-2-dev-blog-9#AI) by the [design of the bots](/koi/koi-bots) in this project.
