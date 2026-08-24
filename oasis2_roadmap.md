@@ -16,6 +16,7 @@ This is the current (as of 8/24/26) planned roadmap for OASIS II. Anything here 
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
 (8/24)
 - Updated the future milestones with 0.6 features and some additional stuff in 0.5. Posting the dev-blog for this month with this.
+- Adjusted expected completion dates for milestones, some wording, plus added a section about supporter DLC plans
 
 (8/21)
 - Adjusted some future milestones. Ran into issues recording hacking (again), but should be finally good enough, the blog post/video is otherwise ready/recorded, expect it sometime during the weekend (i'll try not to get *that* distracted by stalker 2 dlc and mw4 beta lol)
@@ -89,7 +90,7 @@ Will likely do a new build sometime over the next day, planning for video/post o
 	- 5 ammo types currently exist for non-shotgun weapons: FMJ (default/normal), AP, JHP, Incendiary (new), Match (new)
 	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
 
-## 0.4 - End of Winter 2026
+## 0.4 - October 2026
 - Hacking system **(done)**
 	- Is completely different than Tokyo's hacking mechanics, had a new idea for it. More focused on manipulating stuff in the levels themselves rather than the enemies. Mechnically inspired by Cyberpunk Red's netrunning (sorta). Further details about it can be read [in this post here](/oasis/oasis-2-august-26)
 - Some form of "welfare" system (free loadout) **(done)**
@@ -118,9 +119,9 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground) **(done)**
 - Potentionally a public playtest of some form (unsure when)
 
-## 0.5 - ??? 2027
+## 0.5 - Winter 2026/Spring 2027
 - Weather system/visuals (rain, etc)
-	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it completely
+	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it to an extent
 	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather like snow.
 - Stocks system 
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and certain quests
@@ -149,6 +150,15 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - New map type/existing expansion (tbd)
 - New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
 - ???
+
+## Supporter Edition
+When the game is available, either through early access or with full release (if I decide to not do early access), I'm planning to create a small "supporter" DLC (final name may be different).
+This is currently what I'm planning to include in it (could change at any time):
+- 4K screenshots/wallpapers
+- High quality versions of any music I've made for it
+- Some special in-game nameplates
+- A "weapon viewer" mode, which will consist of a scene where you can pick any weapon in the game, customize it how you'd like, then screenshot it, with or without a background
+- Probably will do something similar with character models too
 
 ## Expectation for full release - ??? 2028+
 - Six total regions
