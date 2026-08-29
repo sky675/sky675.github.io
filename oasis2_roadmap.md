@@ -10,10 +10,17 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/24/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 8/29/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(8/29)
+- Added m1911 + ump (rpm-45), as well as .45 ammo types to go with them
+- Added vz82 (9x18 smg)
+- Added a 0.7 milestone, with the remaining weapons in it and grenades (if I cant think of a solution for ai throwing them without blowing up by then, I'm just not gonna worry about that at the end of the day its not a huge deal)
+
+There are 2 remaining major things on the list blocking a public playtest: 1. new map area (will decide what to do for that over the next day), 2. some misc setup in regards to accepting feedback and such.
+
 (8/24)
 - Updated the future milestones with 0.6 features and some additional stuff in 0.5. Posting the dev-blog for this month with this.
 - Adjusted expected completion dates for milestones, some wording, plus added a section about supporter DLC plans
@@ -99,7 +106,9 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - New map type (tbd)
 - Adjusted Makarov animations (need to make it faster, its fairly hard to use right now because the reload is so slow compared to other weapons) **(done, its about 25% faster now)**
 - G17 pistol **(done)**
-- New weapons (m1911 and ump, vz (9x18))
+- M1911 pistol **(done)**
+- RPM-45 smg (ump) **(done)**
+- VZ smg (9x18) **(done)**
 - Short mag-based delay when reloading **(done)**
 - New AI behaviour/types: **(done)**
 	- Camper (they'll just hold in cover, instead of pushing after a few seconds)
@@ -117,7 +126,7 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - Some way to manually skip time (host only) **(done)**
 - Burst fire for weapons that should have it (I skipped implementing it initially) **(done)**
 - The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground) **(done)**
-- Potentionally a public playtest of some form (unsure when)
+- Potentionally a public playtest of some form (after the milestone is complete)
 
 ## 0.5 - Winter 2026/Spring 2027
 - Weather system/visuals (rain, etc)
@@ -151,6 +160,13 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
 - ???
 
+## 0.7 - ??? 2027
+- ???
+- New map type/existing expansion (tbd)
+- New weapons (currently considering: v45, t95 (5.45))
+- Grenade reimplementation
+- ???
+
 ## Supporter Edition
 When the game is available, either through early access or with full release (if I decide to not do early access), I'm planning to create a small "supporter" DLC (final name may be different).
 This is currently what I'm planning to include in it (could change at any time):
@@ -164,7 +180,5 @@ This is currently what I'm planning to include in it (could change at any time):
 - Six total regions
 - Main storyline with three endings
 - By this point, everything relevant from Tokyo should be reimplemented (weapons, objectives, etc)
-- Remaining weapons from Tokyo currently not mentioned on the roadmap (but will be reimplemented in some future milestone):
-	- V45, T95, Grenades
-	- Container weapons could potentially also be added (as in the weapons they were based on, not the container weapons themselves)
+- Container weapons could potentially also be added (as in the weapons they were based on, not the container weapons themselves)
 - ???
