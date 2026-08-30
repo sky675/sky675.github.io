@@ -122,7 +122,6 @@ Will likely do a new build sometime over the next day, planning for video/post o
 - Cluster objective type (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now) **(done)**
 - Brand new objective type (split into 3 different objectives: Transmit, DeadDrop, and Scatter) **(done)**
 	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission, but where the items are and where the entity (or entities) are vary depending on the type
-- Finishing a certain trader's scene (adding gambling-type minigames to it because I thought it'd be fun)
 - Some way to manually skip time (host only) **(done)**
 - Burst fire for weapons that should have it (I skipped implementing it initially) **(done)**
 - The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground) **(done)**
