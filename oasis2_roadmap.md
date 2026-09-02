@@ -10,17 +10,26 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 8/31/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 9/2/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/2)
+Adjusted the plan mentioned below slightly:
+- Playtest will probably be launched towards the end of the month
+- May make it only last until end of october, but will see
+
+Initial version of slums is finished, but it still needs some additional map pieces, props, loot and such.
+
+I've also realized I'm sorta burning out a bit, so until next week taking a short break from this. I'm shifting my focus to koi for a bit, the recent mw4 beta (and some other factors) has reignited my desire to work on it. I want to finish ctf (the mode I was working on when I last worked on it), and clean up the repo for public visiblity plus create a branch with just the stuff needed for mod/map creation. Ideally by next week the repo will be public, but we'll see.
+
 (8/31)
 - Reworked this roadmap a bit
 - My current plan is: 
-	- Playtest launch in 2-4 weeks from today
-	- Playtest will be live for probably around 2 months (end of november, will provide an exact date on launch)
+	- Playtest launch at around the end of the month
+	- Playtest will be live for probably around 1-2 months (at most end of november, will provide an exact date on launch)
 	- May update the playtest to include new content/features
-	- After the playtest is disabled, I will replace it with a demo version with the intention of entering the feburary next fest with it (will probably remove the third region in the demo version but will otherwise mostly be the same as the playtest)
+	- After the playtest is disabled, I will replace it with a demo version with the intention of entering the feburary next fest with it (considering removing the third region in the demo version but will otherwise mostly be the same as the playtest)
 	- That demo will be removed a week or two after the next fest
 	- Early access launch in April? (to give time to implement feedback, plus when 0.5 is fully finished)
 - 0.4 is essentially done, so wiped previous updates
@@ -58,7 +67,7 @@ You should use the table of contents to the right if this has gotten particularl
 ## 0.4 (Current) - September 2026
 - Hacking system **(done)** [(details in this post here)](/oasis/oasis-2-august-26)
 - Free loadout system **(done)**
-- New map type (slums)
+- New map type (slums) **(in progress)** (final name may be different, but its based on the "slums" map type from Tokyo)
 - Adjusted Makarov animations **(done, its about 25% faster now)**
 - G17 pistol **(done)**
 - M1911 pistol **(done)**
@@ -103,13 +112,13 @@ You should use the table of contents to the right if this has gotten particularl
 	- This will introduce new elements to levels (cameras, perhaps turrets, more) that can be controlled via hacking
 	- If an enemy hacker/daemon is active in the network, it will control these peripherals (cameras will direct hostiles to you, turrets will, well, shoot you, etc), you can either destroy the peripherals physically (after which nobody can use them) or reach that point in the network to take it over and prevent the enemy from using it (typically they'll be in the global tower)
 	- The floor will allow you to control the elements yourself (being able to see through the camera, turning on/off the turret + switching its iff, etc)
-- New map type/existing expansion (tbd)
+- Existing map expansions (tbd, probably some for each)
 - New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
 - ???
 
 ## 0.7 - ??? 2027
 - ???
-- New map type/existing expansion (tbd)
+- New map type (tbd)
 - New weapons (currently considering: v45, t95 (5.45))
 - Grenade reimplementation
 - ???
