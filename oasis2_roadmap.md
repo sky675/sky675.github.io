@@ -14,6 +14,9 @@ This is the current (as of 9/2/26) planned roadmap for OASIS II. Anything here i
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/7)
+Okay, back on this now. If you want to check out koi, I've made a (currently restricted) itch page for it [here](https://sky675.itch.io/koi). The password is `koi`. I didn't get everything I consider necessary for a public release done yet, but I did get a lot of what I've been wanting to do with it done. Most of what I still need to do doesn't require me to have the project open, so it might just randomly turn public one day lol.
+
 (9/2)
 Adjusted the plan mentioned below slightly:
 - Playtest will probably be launched towards the end of the month

@@ -70,7 +70,7 @@ During the server's life, I created many features that were unique to the server
 ## Koi - Side Project, Godot (2024-)
 ![koi](/assets/images/koi_vXmYK5Pv67.png)
 
-Koi is a side project I've been working on that was originally inspired by the Bot Warfare mods for the older Call of Duty games. In it, I'm creating a moddable offline game inspired by Call of Duty's multiplayer modes, primarily for my desire to watch bots fight (and fight with them) in various gamemodes that aren't in those older CoDs (and also desire for a moddable CoD MP-type game in general, since that doesn't seem to exist right now). 
+[Koi](https://sky675.itch.io/koi) *(page currently set as restricted, pass is `koi`)* is a side project I've been working on that was originally inspired by the Bot Warfare mods for the older Call of Duty games. In it, I'm creating a moddable offline game inspired by Call of Duty's multiplayer modes, primarily for my desire to watch bots fight (and fight with them) in various gamemodes that aren't in those older CoDs (and also desire for a moddable CoD MP-type game in general, since that doesn't seem to exist right now). 
 
 I also have the intention of open sourcing it once it's further along. 
 
