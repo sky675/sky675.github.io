@@ -14,6 +14,9 @@ This is the current (as of 9/2/26) planned roadmap for OASIS II. Anything here i
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/8)
+Slums finished! 0.4 is now *mostly* complete (I still need to add credits/attributions). This is the version the playtest will launch with, so I'll now start preparing for that.
+
 (9/7)
 Okay, back on this now. If you want to check out koi, I've made a (currently restricted) itch page for it [here](https://sky675.itch.io/koi). The password is `koi`. I didn't get everything I consider necessary for a public release done yet, but I did get a lot of what I've been wanting to do with it done. Most of what I still need to do doesn't require me to have the project open, so it might just randomly turn public one day lol.
 
@@ -70,7 +73,7 @@ I've also realized I'm sorta burning out a bit, so until next week taking a shor
 ## 0.4 (Current) - September 2026
 - Hacking system **(done)** [(details in this post here)](/oasis/oasis-2-august-26)
 - Free loadout system **(done)**
-- New map type (slums) **(in progress)** (final name may be different, but its based on the "slums" map type from Tokyo)
+- New map type (slums) **(done)**
 - Adjusted Makarov animations **(done, its about 25% faster now)**
 - G17 pistol **(done)**
 - M1911 pistol **(done)**
