@@ -1,0 +1,92 @@
+---
+title: "OASIS 2 Changelog (be458bc307dc8d190efa1c5d5e0a8cd0bfd46f1a)"
+toc: true
+toc_label: Changelog
+full-width-toc: true
+noindex: true
+nopage: true
+---
+
+## New Features
+- can blacklist children of a node from being affected by random material variants [1acdc4d]
+- mini variant now has variable to make none of the children get picked (to avoid having to have like 20 blank nodes lol) [1a5eebb]
+- add licenses addon [7ea97a9]
+- include license files in the pck file, the way i understand it i think this is sufficient for mit licensed code [c80b347]
+- add license files to addons that didnt have them (because they were in the root of the repo instead) [9ccee1d]
+- remove licenses addon, im just gonna do what i did for dys lol thats easier [8b952ac]
+- implement attribution/credits, the assets currently used that require attribution + exporting the ofl license text as a separate file alongside the game [0eb4e1e]
+- improve appearance of credits text, make links in it clickable [ee25e45]
+- add grass as surface material enum [e578cb9]
+
+## New Content
+- add m1911 (currently uses 9x19, 45 ammo type is next) [f0da10c]
+- add 45 ammo type, make m1911 mags use it [b96c0b5]
+- add comp+supp items/parts for 45 [bc8672e]
+- ump (rpm-45) [5175dba]
+- vz (last wep for now) [3653d60]
+- add vz to gang loadouts [a0aa9ae]
+- add ump to pmc and sectcom [080152d]
+- start on slums map type (imported all assets originally created for it, need to set them up still tho) [3f27e51]
+- more work on slums (or maybe city block? idk), corridor and spawn closet done and setup the base pieces, now need actual rooms [01da29e]
+- slums scene (has some issues rn) [14f4366]
+- further slums stuff [cd2fb94]
+- more slums room pieces (got enough basic pieces now i think, next will be adding props and stuff) [2f364ad]
+- add set of jp apt props [4211791]
+- improve slum facades, add random ac props and rare signs [cea6bb7]
+- add sidewalk curbs to facades [cf40c80]
+- furnish slum buildings [014aaf5]
+- add slums to the whitelists for scatter and transmit, it has spawns for them [56991fe]
+- add bg elements to entrances of slums [06af597]
+- add slums to map pool for chugoku and kansai [ced5020]
+- added random procedural highway over the slums map (also want to add random bg buildings, but couldnt think of a good way to do that so ill come back to that) [93ea457]
+- soundscape triggers for slums (i forgor) [10a5b3d]
+- added a bunch of footstep sounds, set them up [5fdbdd4]
+
+## Balancing
+- decrease price of g17/18 [bf31290]
+- add new 45 weps to smelmart (they should have them), also add db lol [835bf83]
+- add 45 ammo to hara [86eaf34]
+- reduced size of weapon container invs (felt like these better match the tarkov containers theyre inspired by lol, for some reason i thought they were larger than they were, i dont remember what size these had in tokyo and i dont feel like checking lol, this works fine) [ba5ac75]
+- increase the room count range for slums again, this may be too high it may cause some seeds to fail but its fine [42160a0]
+- auto heal to full on unextract, this is fine i think tbh, potentially could charge money in hardcore or something? [0cfb04a]
+- rework overheal stam, now doesnt reset on shop/save scenes and always allowed to overheal (but stam isnt saved so it doesnt persist), but stamina usage is doubled when over max (instead of 1.5x) [146ca6f]
+- massively reduce damage on glass type combat floors (gobarch should no longer wipe the whole roster in 10 seconds) [4aa34dd]
+
+## Improvements
+- made the default text for the alert level number hyeeeh (this will probably never be shown to a player but hehe) [09f96c4]
+- move g17 sight back slightly [3b2079a]
+- reduce back recoil of g17/18 [7d8268c]
+- improve desc for office [65e3087]
+- increase max rooms for slums from 4-6 to 5-7, so theres at least 2 actual blocks [9b04729]
+- add objective reminder for new objs [a4a6617]
+- mag reload should now prioritize the highest count mag (might be slightly slower) [6e05cce]
+- advanced mag hud (number + firemode) now colors the mag count red if its 0 or reloading [e903190]
+- shellspawner fp offset is now a variable, set a value so the vz wep sorta looks better? not ideal but better [420f0ea]
+- increase aabb of impact particles so hopefully they dont wait for the camera to see them [1d74205]
+- different reverb for warehouse [77ca545]
+- new discord link hides when switching to character background (its supposed to unhide but doesnt? but whatever its fine) [cc26f09]
+- the carpet rooms didnt actually have a surface set [26c6b81]
+
+## UI Visuals/Theming
+- move version label to left side of menu, add join discord button to menu [964afea]
+
+## Bugfixes
+- skip countdown being triggered when interacting with deliver when inv is empty [cd190fc]
+- oops 545 was using the old 556 which is supp 3 which i just used for 45, so fix old 556 lol [167d999]
+- made pm9 audio consistent with other weps [467422a]
+- current slums stuff now works fully [878d921]
+- slums stuff (remove dummy 7x8 building from block 2 so theres no possible fail state, other 7x8 building didnt have random mats setup) [13917bf]
+- more slums fixes, changes facades to use just office mats since all of them was too much, adjusted closet rotation, made exit tunnel larger so it doesnt go straight into a corridor [2dbf7ef]
+- possibly improve lighting on scenes, found a bug with how voxelgi gets positioned [90e8c5f]
+- position of sidewalks would cause z fighting with bottoms of some facade bots, so moved it down very slightly [c75f162]
+- minor fixes with slums [14760da]
+- reverse none chance for mini variant [c425194]
+- missed some material replacement blacklists, slums done for now i think! [9f3ad9d]
+- random material variant blacklist being the wrong way around lol [7ed4ffa]
+- a number of weapons had their nearwalls setup incorrectly, causing them to be reversed on bots [dca8463]
+- possibly fix ai healing unnecessarily, now wont heal if they are at max hp no matter what their heal threshold is [b21ffad]
+- can no longer switch weapons during item animations [9c898e5]
+- bots now shouldnt try to close doors if the door was already open when a bot first entered it (eg a player opened it) [4b49ebd]
+- vz empty reload not resetting empty state [9ebee1e]
+- maybe fix the alternate office stairs not being used? [438a3bf]
+- corridor corners would clip through upper carpet floors [4eb114f]
