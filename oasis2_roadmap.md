@@ -10,36 +10,17 @@ header:
   overlay_image: assets/images/oasis2_bannerv2.png
 ---
 
-This is the current (as of 9/8/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 9/15/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
-(9/8)
-Slums finished! 0.4 is now *mostly* complete (I still need to add credits/attributions). This is the version the playtest will launch with, so I'll now start preparing for that.
+(9/15)
+Added some new stuff to future milestones and officially moved onto 0.5! Specifically:
+- Plan for the early access release to have some new gear (if you happen to have any you've made that you're willing to donate to me (with credit) I'd be very grateful, the place I got the current gear from doubled their prices with no warning or sale...)
+- 0.6 will have a new item type, permadeath profiles, and the fourth region (featuring Reiko, that region's main trader)
+- 0.7 will have a new objective type (as previously mentioned I have 2 more ideas that I plan to implement over time, not sure which one this one will be yet)
 
-(9/7)
-Okay, back on this now. If you want to check out koi, I've made a (currently restricted) itch page for it [here](https://sky675.itch.io/koi). The password is `koi`. I didn't get everything I consider necessary for a public release done yet, but I did get a lot of what I've been wanting to do with it done. Most of what I still need to do doesn't require me to have the project open, so it might just randomly turn public one day lol.
-
-(9/2)
-Adjusted the plan mentioned below slightly:
-- Playtest will probably be launched towards the end of the month
-- May make it only last until end of october, but will see
-
-Initial version of slums is finished, but it still needs some additional map pieces, props, loot and such.
-
-I've also realized I'm sorta burning out a bit, so until next week taking a short break from this. I'm shifting my focus to koi for a bit, the recent mw4 beta (and some other factors) has reignited my desire to work on it. I want to finish ctf (the mode I was working on when I last worked on it), and clean up the repo for public visiblity plus create a branch with just the stuff needed for mod/map creation. Ideally by next week the repo will be public, but we'll see.
-
-(8/31)
-- Reworked this roadmap a bit
-- My current plan is: 
-	- Playtest launch at around the end of the month
-	- Playtest will be live for probably around 1-2 months (at most end of november, will provide an exact date on launch)
-	- May update the playtest to include new content/features
-	- After the playtest is disabled, I will replace it with a demo version with the intention of entering the feburary next fest with it (considering removing the third region in the demo version but will otherwise mostly be the same as the playtest)
-	- That demo will be removed a week or two after the next fest
-	- Early access launch in April? (to give time to implement feedback, plus when 0.5 is fully finished)
-- 0.4 is essentially done, so wiped previous updates
-- Third map type is decided to be Slums, currently working on implementing it (will be a bit different than tokyo's version)
+The playtest is still planned for this month, I'll also post a blog post alongside it. I've also done a bunch of lighting updates again, so expect new screenshots lol (I've learned more about lighting in this engine in general, to the point that I'll probably change the capsule art and store gifs as well)
 
 ## 0.2 - Done
 - Steam multiplayer/lobby implementation **(done)**
@@ -70,7 +51,7 @@ I've also realized I'm sorta burning out a bit, so until next week taking a shor
 	- 5 ammo types currently exist for non-shotgun weapons: FMJ (default/normal), AP, JHP, Incendiary (new), Match (new)
 	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
 
-## 0.4 (Current) - September 2026
+## 0.4 - Done
 - Hacking system **(done)** [(details in this post here)](/oasis/oasis-2-august-26)
 - Free loadout system **(done)**
 - New map type (slums) **(done)**
@@ -85,12 +66,11 @@ I've also realized I'm sorta burning out a bit, so until next week taking a shor
 - Defuse objective type **(done)**
 - Cluster objective type (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now) **(done)**
 - Brand new objective type (split into 3 different objectives: Transmit, DeadDrop, and Scatter) **(done)**
-	- The basic flow of this is you take an item (or items) and deliver it to an entity in the mission, but where the items are and where the entity (or entities) are vary depending on the type
 - Some way to manually skip time (host only) **(done)**
 - Burst fire for weapons that should have it (I skipped implementing it initially) **(done)**
 - The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground) **(done)**
 
-## 0.5 (Early Access Release) - April 2027
+## 0.5 (Current, Planned Early Access Release) - April 2027
 - Weather system/visuals (rain, etc)
 	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it to an extent
 	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather like snow.
@@ -102,6 +82,7 @@ I've also realized I'm sorta burning out a bit, so until next week taking a shor
 - Office map type expansion (small office variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
 - More advanced hitbox script (intended for the head, but may be added to other parts in the future): Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
+- New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
 - HUD cyberware expansion
 	- Overview AUX hud (shows the health of teammates)
 	- SmartVision (will be part of a base cyberware and not a mod)
@@ -116,10 +97,16 @@ I've also realized I'm sorta burning out a bit, so until next week taking a shor
 	- Potential objectives will range from killing a certain amount of the mission's factions ai (where ones they kill won't count as a kill for you), to taking retrieval/objective items (they'll have an inventory to be able to get them back), or completely unrelated objectives such as reaching and investigating various parts of the level.
 - Hacking expansion (Peripheral floors)
 	- This will introduce new elements to levels (cameras, perhaps turrets, more) that can be controlled via hacking
-	- If an enemy hacker/daemon is active in the network, it will control these peripherals (cameras will direct hostiles to you, turrets will, well, shoot you, etc), you can either destroy the peripherals physically (after which nobody can use them) or reach that point in the network to take it over and prevent the enemy from using it (typically they'll be in the global tower)
+	- If an enemy hacker/daemon is active in the network, it will control these peripherals (cameras will direct hostiles to you payday-style, turrets will, well, shoot you, etc), you can either destroy the peripherals physically (after which nobody can use them) or reach that point in the network to take it over and prevent the enemy from using it (typically they'll be in the global tower)
 	- The floor will allow you to control the elements yourself (being able to see through the camera, turning on/off the turret + switching its iff, etc)
-- Existing map expansions (tbd, probably some for each)
+- Existing map expansions (tbd, probably some new rooms for each)
 - New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
+- Cyberware clothing item (clothing items that provide a cyberware effect, such as a hud element without needing eye cyberware)
+- Fourth region (at least 1 new trader)
+- Permadeath profile mode (play with a permadeath mechanic)
+	- In MP the save will only be deleted if the whole team wipes
+	- Will probably end up not *actually* deleting the save, instead just making it not playable and kicking you to the menu, so the stats can be seen later
+	- Also will have a hardcore variant
 - ???
 
 ## 0.7 - ??? 2027
@@ -127,6 +114,7 @@ I've also realized I'm sorta burning out a bit, so until next week taking a shor
 - New map type (tbd)
 - New weapons (currently considering: v45, t95 (5.45))
 - Grenade reimplementation
+- New objective type (tbd)
 - ???
 
 ## Supporter Edition
