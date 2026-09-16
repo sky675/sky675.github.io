@@ -7,13 +7,21 @@ full-width-toc: true
 nopage: true
 noindex: true
 header:
-  overlay_image: assets/images/oasis2_bannerv2.png
+  overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 9/15/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 9/16/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/16)
+This isn't really an update to the roadmap itself, just a general update:
+- Enabled early access on the store page
+- Added new store assets (the screenshots look good enough still, so they'll stay for now)
+- Clarified "small office" in the 0.5 part of the roadmap to mean "local office-type" environments, fundamentally this will just mean a larger entrance room with a lot of exits and a more condensed map, similar to the local office maps in Tokyo
+
+Preparation is going well, primarily waiting for people to become available to run a multiplayer session, and if that goes well the playtest might be started this week! (fair warning it probably wont, it'll probably be next week, need time to edit the monthly missions video)
+
 (9/15)
 Added some new stuff to future milestones and officially moved onto 0.5! Specifically:
 - Plan for the early access release to have some new gear (if you happen to have any you've made that you're willing to donate to me (with credit) I'd be very grateful, the place I got the current gear from doubled their prices with no warning or sale...)
@@ -79,7 +87,7 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - Exports system
 	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
 - Hacking expansion (new interface + set of programs)
-- Office map type expansion (small office variants + new rooms)
+- Office map type expansion (local office-type variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
 - More advanced hitbox script (intended for the head, but may be added to other parts in the future): Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
 - New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
