@@ -19,6 +19,7 @@ This isn't really an update to the roadmap itself, just a general update:
 - Enabled early access on the store page
 - Added new store assets (the screenshots look good enough still, so they'll stay for now)
 - Clarified "small office" in the 0.5 part of the roadmap to mean "local office-type" environments, fundamentally this will just mean a larger entrance room with a lot of exits and a more condensed map, similar to the local office maps in Tokyo
+- Also added penetration to the 0.5 part of the roadmap. The PTRD in dys was *sorta* a test for this, and while I was on the fence initially still, I kinda want to do it now and reworking the bullets to allow this should be relatively simple (it'll be a relatively simple system overall, I'm not gonna do like ricochets or anything like that), it may get moved until later though based on how much time I have.
 
 Preparation is going well, primarily waiting for people to become available to run a multiplayer session, and if that goes well the playtest might be started this week! (fair warning it probably wont, it'll probably be next week, need time to edit the monthly missions video)
 
@@ -90,6 +91,7 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - Office map type expansion (local office-type variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
 - More advanced hitbox script (intended for the head, but may be added to other parts in the future): Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
+- Bullet penetration system (maybe, this may get moved later)
 - New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
 - HUD cyberware expansion
 	- Overview AUX hud (shows the health of teammates)
