@@ -14,6 +14,11 @@ This is the current (as of 9/16/26) planned roadmap for OASIS II. Anything here 
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/20)
+Not certain yet, but aiming for playtest on the **23rd** (waiting for early access change to get approved first)
+- Added voiceline system to 0.5 part of roadmap (will likely start with just like a little grunt when spotting and on death, don't want to use the pack voicelines I used for Tokyo this time)
+- Added hacking system mods to 0.7 (I *may* swap this with peripheral floors depending on how many peripheral ideas I have when its time to start on that)
+
 (9/16)
 This isn't really an update to the roadmap itself, just a general update:
 - Enabled early access on the store page
@@ -93,6 +98,8 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - More advanced hitbox script (intended for the head, but may be added to other parts in the future): Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
 - Bullet penetration system (maybe, this may get moved later)
 - New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
+- Voiceline system (planning to start with just some generic grunt noises)
+	- If you want to volunteer to voice characters, please email me or message on discord! Primarily looking for male and female voices for: English and Japanese.
 - HUD cyberware expansion
 	- Overview AUX hud (shows the health of teammates)
 	- SmartVision (will be part of a base cyberware and not a mod)
@@ -115,12 +122,15 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - Fourth region (at least 1 new trader)
 - Permadeath profile mode (play with a permadeath mechanic)
 	- In MP the save will only be deleted if the whole team wipes
-	- Will probably end up not *actually* deleting the save, instead just making it not playable and kicking you to the menu, so the stats can be seen later
+	- Will probably end up not *actually* deleting the save, instead just making it not playable and kicking you to the menu, so the stats can be seen later (as a memorial type of thing)
 	- Also will have a hardcore variant
 - ???
 
 ## 0.7 - ??? 2027
 - ???
+- Hacking expansion (mods)
+	- Hardware/software mods that affect how the hacking interface and your programs work (buff stats permanently, buff programs, etc)
+	- Daemons will be able to apply temporary debuffs
 - New map type (tbd)
 - New weapons (currently considering: v45, t95 (5.45))
 - Grenade reimplementation
