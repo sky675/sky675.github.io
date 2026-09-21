@@ -14,6 +14,11 @@ This is the current (as of 9/16/26) planned roadmap for OASIS II. Anything here 
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/21)
+- Made my twitter account public, please follow! I plan to start posting on it occasionally (not as often as I update this page but more than monthly hopefully) [https://x.com/skaaie](https://x.com/skaaie). I also opened message requests on it, but email or Discord is still the best way to contact me, I probably won't check DMs on that much.
+- Added new containers to 0.5 milestone (may add them during the playtest, we'll see lol)
+- Clarify that the SmartVision cyberware will likely have some kind of downside (trading it for no weapon/aux hud, maybe no other hud in general, etc. still unsure what I want to actually do for that)
+
 (9/20)
 Not certain yet, but aiming for playtest on the **23rd** (waiting for early access change to get approved first)
 - Added voiceline system to 0.5 part of roadmap (will likely start with just like a little grunt when spotting and on death, don't want to use the pack voicelines I used for Tokyo this time)
@@ -51,11 +56,12 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - More advanced hitbox script (intended for the head, but may be added to other parts in the future): Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
 - Bullet penetration system (maybe, this may get moved later)
 - New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
+- New containers (ammo, weapons/atts/mags, general item containers)
 - Voiceline system (planning to start with just some generic grunt noises)
 	- If you want to volunteer to voice characters, please email me or message on discord! Primarily looking for male and female voices for: English and Japanese.
 - HUD cyberware expansion
 	- Overview AUX hud (shows the health of teammates)
-	- SmartVision (will be part of a base cyberware and not a mod)
+	- SmartVision (will be part of a base cyberware and not a mod, probably will come with no mod slots or only a health one)
 	- Advanced weapon hud (shows mags/ammo left)
 	- ???
 - ???

@@ -42,6 +42,9 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCnqczZEtybB_mx7Jz_797uw"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/skaaie"
 
 minimal_mistakes_skin: neon
 
