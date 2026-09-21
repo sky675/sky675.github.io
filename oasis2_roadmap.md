@@ -18,6 +18,7 @@ You should use the table of contents to the right if this has gotten particularl
 Not certain yet, but aiming for playtest on the **23rd** (waiting for early access change to get approved first)
 - Added voiceline system to 0.5 part of roadmap (will likely start with just like a little grunt when spotting and on death, don't want to use the pack voicelines I used for Tokyo this time)
 - Added hacking system mods to 0.7 (I *may* swap this with peripheral floors depending on how many peripheral ideas I have when its time to start on that)
+- Moved the previous milestones to the bottom of the page
 
 (9/16)
 This isn't really an update to the roadmap itself, just a general update:
@@ -35,54 +36,6 @@ Added some new stuff to future milestones and officially moved onto 0.5! Specifi
 - 0.7 will have a new objective type (as previously mentioned I have 2 more ideas that I plan to implement over time, not sure which one this one will be yet)
 
 The playtest is still planned for this month, I'll also post a blog post alongside it. I've also done a bunch of lighting updates again, so expect new screenshots lol (I've learned more about lighting in this engine in general, to the point that I'll probably change the capsule art and store gifs as well)
-
-## 0.2 - Done
-- Steam multiplayer/lobby implementation **(done)**
-- Warehouses map type **(done)**
-- Pump-action shotgun **(done)**
-- AR-based platform (M4A1 + semi-auto variant) **(done)**
-- "Actual" equipment for characters **(done)**
-- Retrieval objective type **(done)**
-- Bounty objective type **(done)**
-- Gadget weapon attachment type **(done)**
-- Initial skill trees for stats system **(done)**
-- Profile/save creation options (hardcore, sandbox, etc) **(done)**
-- Second region (+ related traders) **(done)**
-
-## 0.3 - Done
-- Alert system **(done)**
-- Setup for potential localization **(done)**
-- Double barrel shotgun **(done)**
-- AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
-- PM-9 smg (features sight and suppressor att slots that weren't in tokyo) **(done)**
-- Destruction objective type **(done)**
-- Upload/Defense objective type **(done)**
-- Third region (+ related traders) **(done)**
-- Upgradeable stash rows (via a trader) **(done)**
-- Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable) **(done)**
-- Multi-mode gadget attachment type (dbal reimplementation) **(done)**
-- New ammo types (incendiary, match, ???) **(done)**
-	- 5 ammo types currently exist for non-shotgun weapons: FMJ (default/normal), AP, JHP, Incendiary (new), Match (new)
-	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
-
-## 0.4 - Done
-- Hacking system **(done)** [(details in this post here)](/oasis/oasis-2-august-26)
-- Free loadout system **(done)**
-- New map type (slums) **(done)**
-- Adjusted Makarov animations **(done, its about 25% faster now)**
-- G17 pistol **(done)**
-- M1911 pistol **(done)**
-- RPM-45 smg (ump) **(done)**
-- VZ smg (9x18) **(done)**
-- Short mag-based delay when reloading **(done)**
-- New AI behaviour/types: **(done)**
-- New factions (corporate security (generic), PMC) **(done)** 
-- Defuse objective type **(done)**
-- Cluster objective type (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now) **(done)**
-- Brand new objective type (split into 3 different objectives: Transmit, DeadDrop, and Scatter) **(done)**
-- Some way to manually skip time (host only) **(done)**
-- Burst fire for weapons that should have it (I skipped implementing it initially) **(done)**
-- The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground) **(done)**
 
 ## 0.5 (Current, Planned Early Access Release) - April 2027
 - Weather system/visuals (rain, etc)
@@ -152,3 +105,53 @@ This is currently what I'm planning to include in it (could change at any time):
 - By this point, everything relevant from Tokyo should be reimplemented (weapons, objectives, etc)
 - Container weapons could potentially also be added (as in the weapons they were based on, not the container weapons themselves)
 - ???
+
+## Previous Milestones
+
+### 0.2 - Done (June 2026)
+- Steam multiplayer/lobby implementation **(done)**
+- Warehouses map type **(done)**
+- Pump-action shotgun **(done)**
+- AR-based platform (M4A1 + semi-auto variant) **(done)**
+- "Actual" equipment for characters **(done)**
+- Retrieval objective type **(done)**
+- Bounty objective type **(done)**
+- Gadget weapon attachment type **(done)**
+- Initial skill trees for stats system **(done)**
+- Profile/save creation options (hardcore, sandbox, etc) **(done)**
+- Second region (+ related traders) **(done)**
+
+### 0.3 - Done (July 2026)
+- Alert system **(done)**
+- Setup for potential localization **(done)**
+- Double barrel shotgun **(done)**
+- AK platform (all the ak-based weapons in tokyo, plus a new one) **(done)**
+- PM-9 smg (features sight and suppressor att slots that weren't in tokyo) **(done)**
+- Destruction objective type **(done)**
+- Upload/Defense objective type **(done)**
+- Third region (+ related traders) **(done)**
+- Upgradeable stash rows (via a trader) **(done)**
+- Passive V-Mon gain (mining, also at a trader, will also be able to convert between the 2 currencies at a loss, will be upgradeable) **(done)**
+- Multi-mode gadget attachment type (dbal reimplementation) **(done)**
+- New ammo types (incendiary, match, ???) **(done)**
+	- 5 ammo types currently exist for non-shotgun weapons: FMJ (default/normal), AP, JHP, Incendiary (new), Match (new)
+	- 4 ammo types currently exist for shotgun weapons: Buckshot, Slug, Flechette (new), Dragon's Breath (new)
+
+### 0.4 - Done (September 2026)
+- Hacking system **(done)** [(details in this post here)](/oasis/oasis-2-august-26)
+- Free loadout system **(done)**
+- New map type (slums) **(done)**
+- Adjusted Makarov animations **(done, its about 25% faster now)**
+- G17 pistol **(done)**
+- M1911 pistol **(done)**
+- RPM-45 smg (ump) **(done)**
+- VZ smg (9x18) **(done)**
+- Short mag-based delay when reloading **(done)**
+- New AI behaviour/types: **(done)**
+- New factions (corporate security (generic), PMC) **(done)** 
+- Defuse objective type **(done)**
+- Cluster objective type (this'll be a little different than Tokyo's, I'm removing the central server from this so it's just multiple mini-upload objectives now) **(done)**
+- Brand new objective type (split into 3 different objectives: Transmit, DeadDrop, and Scatter) **(done)**
+- Some way to manually skip time (host only) **(done)**
+- Burst fire for weapons that should have it (I skipped implementing it initially) **(done)**
+- The ability for character parts to add extra ragdoll collision shapes (ex: backpack not phasing into the ground) **(done)**
