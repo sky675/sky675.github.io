@@ -1,0 +1,28 @@
+---
+title: "OASIS 2 Changelog (bc3cd879d3e85beda8e9c8f6cfb5e0cfab469910)"
+toc: true
+toc_label: Changelog
+full-width-toc: true
+noindex: true
+nopage: true
+---
+
+## Balancing
+- smelmart bully bounty now accepts pmc bounty missions too (should make it a bit easier to finish lol) [60b7a11]
+- add a hard cap for damage the player can take at once (75), thisll be removed later once theres some form of head protection, this should reduce the chance of getting 2 tapped with a random headshot [9b487d0]
+- reduce initial patrol in chugoku up mission to reduce its difficulty, 0.66 -> 0.4 (thisll be bumped back up once the intended faction is made for this) [efd70d7]
+
+## Improvements
+- use a hardcoded aimlength for now? idk [f71207a]
+- replace m1911 slide rel sound with the slide forward sound from the rack anim instead [ae65ea9]
+- added a new label that (in theory) should show on the ui when a new regions been unlocked (technically untested so probably doesnt work lol) [bacf105]
+
+## Refactors/Reworks
+- force complete wave defense machine if its cur_perc is over 1, technically makes them shorter but i think this is cleaner (and will prevent issues where it seemingly gets stuck) [0e5dfd3]
+
+## Bugfixes
+- i forgot something and it broke the entire game woops [df899fd]
+- set stam to 100 on revive (clears overheal stam) [23651f7]
+- possibly fixes adding items to inv when thered be no space when rotated? (causes weird issues in build) (#129) [af28773]
+- ai would error when targeting entities woops lol [da81b2f]
+- time spent translation, there are actually 5 states of time not 4 lol [cd6fe67]
