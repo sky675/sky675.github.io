@@ -14,6 +14,11 @@ This is the current (as of 9/21/26) planned roadmap for OASIS II. Anything here 
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/22)
+Playtest tomorrow :)
+- Various adjustments to the roadmap (changing some wording, had an idea on how to do an alternate export use mechanic)
+- Added a (mostly) blank 0.8 to start with (the version numbers are not a percentage complete or anything like that btw, it will go to 0.10+ if necessary)
+
 (9/21)
 - Made my twitter account public, please follow! I plan to start posting on it occasionally (not as often as I update this page but more than monthly hopefully) [https://x.com/skaaie](https://x.com/skaaie). I also opened message requests on it, but email or Discord is still the best way to contact me, I probably won't check DMs on that much.
 - Added new containers to 0.5 milestone (may add them during the playtest, we'll see lol)
@@ -44,12 +49,13 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 
 ## 0.5 (Current, Planned Early Access Release) - April 2027
 - Weather system/visuals (rain, etc)
-	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it to an extent
-	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather like snow.
-- Stocks system 
+	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it (to an extent, it won't go from like clear to heavy rain)
+	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather (primarily snow).
+- Stocks system
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and certain quests
 - Exports system
 	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
+	- Exports may be able to be redeemed to create a one-attempt mission in the current region with a specific type of modifier (corp area item loot without having to deal with corp security, etc) (not 100% sure on this yet, this'll probably change lol)
 - Hacking expansion (new interface + set of programs)
 - Office map type expansion (local office-type variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
@@ -61,8 +67,8 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 	- If you want to volunteer to voice characters, please email me or message on discord! Primarily looking for male and female voices for: English and Japanese.
 - HUD cyberware expansion
 	- Overview AUX hud (shows the health of teammates)
-	- SmartVision (will be part of a base cyberware and not a mod, probably will come with no mod slots or only a health one)
-	- Advanced weapon hud (shows mags/ammo left)
+	- SmartVision (will be part of a base cyberware and not a mod, probably will come with no mod slots or maybe only a health one)
+	- Advanced weapon hud (shows mags/ammo left in inv)
 	- ???
 - ???
 
@@ -77,7 +83,7 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 	- The floor will allow you to control the elements yourself (being able to see through the camera, turning on/off the turret + switching its iff, etc)
 - Existing map expansions (tbd, probably some new rooms for each)
 - New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
-- Cyberware clothing item (clothing items that provide a cyberware effect, such as a hud element without needing eye cyberware)
+- Cyberware clothing item (clothing items that provide a cyberware effect, such as glasses that give a hud element without needing eye cyberware)
 - Fourth region (at least 1 new trader)
 - Permadeath profile mode (play with a permadeath mechanic)
 	- In MP the save will only be deleted if the whole team wipes
@@ -91,9 +97,15 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 	- Hardware/software mods that affect how the hacking interface and your programs work (buff stats permanently, buff programs, etc)
 	- Daemons will be able to apply temporary debuffs
 - New map type (tbd)
-- New weapons (currently considering: v45, t95 (5.45))
-- Grenade reimplementation
+- New weapons (currently considering: v45, t95 (5.45 ver))
+- Grenades
 - New objective type (tbd)
+- ???
+
+## 0.8 - ???
+- ???
+- New map type or existing map expansions (tbd)
+- New weapons (tbd)
 - ???
 
 ## Supporter Edition
