@@ -14,6 +14,11 @@ This is the current (as of 9/21/26) planned roadmap for OASIS II. Anything here 
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/23)
+Playtest is live! Haven't got any feedback yet but I hope you like it!
+This one's minor, I'm removing the "character viewer" mention from the supporter edition section.
+I'm planning to create a system to allow dummy ai to be animated in a "gameplay cutscene" sorta way, once I do that I'll try to make a user friendly version of that and add it to the supporter pack as a replacement. (it'll likely be *after* the early access release though)
+
 (9/22)
 Playtest tomorrow :)
 - Various adjustments to the roadmap (changing some wording, had an idea on how to do an alternate export use mechanic)
@@ -115,7 +120,6 @@ This is currently what I'm planning to include in it (could change at any time):
 - High quality versions of any music I've made for it
 - Some special in-game nameplates
 - A "weapon viewer" mode, which will consist of a scene where you can pick any weapon in the game, customize it how you'd like, then screenshot it, with or without a background
-- Probably will do something similar with character models too
 
 ## Expectation for full release - ??? 2028+
 - Six total regions
