@@ -10,10 +10,15 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 9/21/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 9/29/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(9/29)
+Just a general update here since it's been about a week since the playtest has released. In a few days I will release 0.4.6 (probably also on Saturday), which will bring a number of fixes and some quality of life stuff, plus maybe a new quest or two. After that, I'm not planning on adding anything new to the playtest. I will continue to release fixes if necessary, but I will primarily start working towards marketing content for the demo. 
+
+After the playtest has finished, I will also setup the demo as previously stated using its current version (no third region, will move Kasumi temporarily into Chugoku so she's accessible) and the demo will launch probably a month later with the intention of joining the February Next Fest. Things are going well, there are no changes to the plan.
+
 (9/23)
 Playtest is live! Haven't got any feedback yet but I hope you like it!
 This one's minor, I'm removing the "character viewer" mention from the supporter edition section.
