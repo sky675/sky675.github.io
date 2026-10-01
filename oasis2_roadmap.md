@@ -14,6 +14,9 @@ This is the current (as of 9/29/26) planned roadmap for OASIS II. Anything here 
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(10/1)
+First step towards 0.5! I implemented the advanced head hitboxes. This will be in 0.4.6 along with the first helmet (it's kinda a test item, I don't mind it but it could be better, so it may be removed/replaced in future versions).
+
 (9/29)
 Just a general update here since it's been about a week since the playtest has released. In a few days I will release 0.4.6 (probably also on Saturday), which will bring a number of fixes and some quality of life stuff, plus maybe a new quest or two. After that, I'm not planning on adding anything new to the playtest. I will continue to release fixes if necessary, but I will primarily start working towards marketing content for the demo. 
 
@@ -69,7 +72,8 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - Hacking expansion (new interface + set of programs)
 - Office map type expansion (local office-type variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
-- More advanced hitbox script (intended for the head, but may be added to other parts in the future): Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
+- More advanced hitbox script (intended for the head, but may be added to other parts in the future) **(done)**
+	- Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
 - Bullet penetration system (maybe, this may get moved later)
 - New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
 - New containers (ammo, weapons/atts/mags, general item containers)
