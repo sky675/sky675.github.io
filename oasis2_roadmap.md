@@ -10,10 +10,13 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 9/29/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 10/3/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(10/3)
+Updated the playtest! Also adding "hair under helmets/hats" to 0.5. It's something I definitely want to do, but I want to have more headwear for it first, so it'll be in the early access release.
+
 (10/1)
 First step towards 0.5! I implemented the advanced head hitboxes. This will be in 0.4.6 along with the first helmet (it's kinda a test item, I don't mind it but it could be better, so it may be removed/replaced in future versions).
 
@@ -76,6 +79,7 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 	- Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
 - Bullet penetration system (maybe, this may get moved later)
 - New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
+- Hair under helmets/hats
 - New containers (ammo, weapons/atts/mags, general item containers)
 - Voiceline system (planning to start with just some generic grunt noises)
 	- If you want to volunteer to voice characters, please email me or message on discord! Primarily looking for male and female voices for: English and Japanese.
