@@ -10,10 +10,15 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 10/3/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too!
+This is the current (as of 10/7/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(10/7)
+Updating this to document a few ideas I had, most currently planned for 0.6 and/or the future, for which I added a "Potential Ideas" section for. Right now however, I'm currently working on a trailer, which will be released with the demo version (probably in early December). Next week, I will split off a new branch for the demo version, make the changes I've previously described (remove kansai, move kasumi into chugoku so the miner is accessible), and start setting up stuff for the demo app. 
+
+Because of the playtest update posts this month and the playtest version currently being the same as the version of the main game, I probably won't do a dev-blog post for this month. Instead, I'll write a post about the games from Next Fest this month that I liked, since I enjoyed doing that in June.
+
 (10/3)
 Updated the playtest! Also adding "hair under helmets/hats" to 0.5. It's something I definitely want to do, but I want to have more headwear for it first, so it'll be in the early access release.
 
@@ -102,6 +107,14 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - Existing map expansions (tbd, probably some new rooms for each)
 - New weapons (currently considering: famas/fmr 5.56, spas/s12, evo/vz3)
 - Cyberware clothing item (clothing items that provide a cyberware effect, such as glasses that give a hud element without needing eye cyberware)
+- Durability on armor 
+	- Certain clothing items may have a durability, and after its depleted it the affected hitboxes no longer have armor
+	- This will primarily be only be used for high value armor (helmets with faceshields, high-tier armor), bots using them will also be affected, items like what are currently in-game will still have no durability
+	- Can be repaired at shops
+- Revive rework
+	- Can be revived without item (but will be at 1 hp)
+	- Certain items (first aid kit, kage kit) can use a charge to revive at higher hp (automatic, move it out of vests/pockets before reviving to not use it)
+	- Revive kits will become multi-use, will revive with highest amount of hp
 - Fourth region (at least 1 new trader)
 - Permadeath profile mode (play with a permadeath mechanic)
 	- In MP the save will only be deleted if the whole team wipes
@@ -140,6 +153,11 @@ This is currently what I'm planning to include in it (could change at any time):
 - By this point, everything relevant from Tokyo should be reimplemented (weapons, objectives, etc)
 - Container weapons could potentially also be added (as in the weapons they were based on, not the container weapons themselves)
 - ???
+
+## Potential Ideas
+These are broad ideas I have, these may or may not be implemented at any time during Early Access or after and are just here for posterity's sake
+- Visible holstered weapons (I want to try to do this for 0.5, but unsure how feasible it is right now, may or may not happen, which is why its here instead of in there)
+- Seasonal/Leaderboard profiles (special profile type that wipes weekly/monthly/quarterly/?, may or may not change the game in some way, scored based on stats in some way, may have an in-game/meta reward for high ranks like a special nameplate, discord role, or something)
 
 ## Previous Milestones
 
