@@ -14,59 +14,25 @@ This is the current (as of 10/7/26) planned roadmap for OASIS II. Anything here 
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(10/13)
+Cleared out some of the older updates since it's been a while. Trailer is done (generally at least, need to get some ppl to test watch it). Demo build is finished and uploaded. Tomorrow I plan to submit it for review (may or may not lol, plan to do a test playthrough of the demo first). Release of it is still planned for early December. It's in its own branch now, so I can begin working on the 0.5 features and content again. If I make significant progress over the next 2 weeks, I'll probably end up making a post, but right now I still plan not to, and plan to only make the previously mentioned Next Fest post instead.
+
+As a reminder, here is what is changed for the demo from the playtest:
+- Removed Kansai (just for demo pacing/content concerns, still in full release)
+- Kasumi has a temporary shop in Chugoku that is unlocked at the same level Kansai would be unlocked
+- Kasumi's Mining Pick mission has been moved to Chugoku, so it is finishable. (both it and its prerequisite will not reward region xp in the demo though)
+	- The other Kansai quests still technically exist, so if you load a profile that had them they'll be visible, but they won't be completable (technically No Sniping should be completable)
+- Added new quest for Hara to make up for some of the later game quests being inaccessible in the demo (this is not a temporary quest for the demo though)
+- Protection mechanic added in the last playtest update has been buffed (reduced damage threshold, reduced max damage dealt to player at once)
+	- Haven't tested it as of writing but I believe this should make it a bit easier - my goal balancing-wise is a 65-75% personal mission completion rate, it is currently 30-50% (though it is a bit skewed from testing missions).
+- Some minor fixes for issues I found while recording footage for the trailer (fun fact 2 of the issues can be seen in the trailer, but I left them in because don't think it'd be that noticible, look out for them lol)
+
+I do have a system planned for unlocking new (to the profile) regions for profiles that pass the level that would cause a new region to be unlocked while that region doesn't technically exist, so profiles that play long enough to unlock Kasumi in the demo will be able to access Kansai in the full game - though it will be via a quest Maki will have, not automatic.
+
 (10/7)
 Updating this to document a few ideas I had, most currently planned for 0.6 and/or the future, for which I added a "Potential Ideas" section for. Right now however, I'm currently working on a trailer, which will be released with the demo version (probably in early December). Next week, I will split off a new branch for the demo version, make the changes I've previously described (remove kansai, move kasumi into chugoku so the miner is accessible), and start setting up stuff for the demo app. 
 
 Because of the playtest update posts this month and the playtest version currently being the same as the version of the main game, I probably won't do a dev-blog post for this month. Instead, I'll write a post about the games from Next Fest this month that I liked, since I enjoyed doing that in June.
-
-(10/3)
-Updated the playtest! Also adding "hair under helmets/hats" to 0.5. It's something I definitely want to do, but I want to have more headwear for it first, so it'll be in the early access release.
-
-(10/1)
-First step towards 0.5! I implemented the advanced head hitboxes. This will be in 0.4.6 along with the first helmet (it's kinda a test item, I don't mind it but it could be better, so it may be removed/replaced in future versions).
-
-(9/29)
-Just a general update here since it's been about a week since the playtest has released. In a few days I will release 0.4.6 (probably also on Saturday), which will bring a number of fixes and some quality of life stuff, plus maybe a new quest or two. After that, I'm not planning on adding anything new to the playtest. I will continue to release fixes if necessary, but I will primarily start working towards marketing content for the demo. 
-
-After the playtest has finished, I will also setup the demo as previously stated using its current version (no third region, will move Kasumi temporarily into Chugoku so she's accessible) and the demo will launch probably a month later with the intention of joining the February Next Fest. Things are going well, there are no changes to the plan.
-
-(9/23)
-Playtest is live! Haven't got any feedback yet but I hope you like it!
-This one's minor, I'm removing the "character viewer" mention from the supporter edition section.
-I'm planning to create a system to allow dummy ai to be animated in a "gameplay cutscene" sorta way, once I do that I'll try to make a user friendly version of that and add it to the supporter pack as a replacement. (it'll likely be *after* the early access release though)
-
-(9/22)
-Playtest tomorrow :)
-- Various adjustments to the roadmap (changing some wording, had an idea on how to do an alternate export use mechanic)
-- Added a (mostly) blank 0.8 to start with (the version numbers are not a percentage complete or anything like that btw, it will go to 0.10+ if necessary)
-
-(9/21)
-- Made my twitter account public, please follow! I plan to start posting on it occasionally (not as often as I update this page but more than monthly hopefully) [https://x.com/skaaie](https://x.com/skaaie). I also opened message requests on it, but email or Discord is still the best way to contact me, I probably won't check DMs on that much.
-- Added new containers to 0.5 milestone (may add them during the playtest, we'll see lol)
-- Clarify that the SmartVision cyberware will likely have some kind of downside (trading it for no weapon/aux hud, maybe no other hud in general, etc. still unsure what I want to actually do for that)
-
-(9/20)
-Not certain yet, but aiming for playtest on the **23rd** (waiting for early access change to get approved first)
-- Added voiceline system to 0.5 part of roadmap (will likely start with just like a little grunt when spotting and on death, don't want to use the pack voicelines I used for Tokyo this time)
-- Added hacking system mods to 0.7 (I *may* swap this with peripheral floors depending on how many peripheral ideas I have when its time to start on that)
-- Moved the previous milestones to the bottom of the page
-
-(9/16)
-This isn't really an update to the roadmap itself, just a general update:
-- Enabled early access on the store page
-- Added new store assets (the screenshots look good enough still, so they'll stay for now)
-- Clarified "small office" in the 0.5 part of the roadmap to mean "local office-type" environments, fundamentally this will just mean a larger entrance room with a lot of exits and a more condensed map, similar to the local office maps in Tokyo
-- Also added penetration to the 0.5 part of the roadmap. The PTRD in dys was *sorta* a test for this, and while I was on the fence initially still, I kinda want to do it now and reworking the bullets to allow this should be relatively simple (it'll be a relatively simple system overall, I'm not gonna do like ricochets or anything like that), it may get moved until later though based on how much time I have.
-
-Preparation is going well, primarily waiting for people to become available to run a multiplayer session, and if that goes well the playtest might be started this week! (fair warning it probably wont, it'll probably be next week, need time to edit the monthly missions video)
-
-(9/15)
-Added some new stuff to future milestones and officially moved onto 0.5! Specifically:
-- Plan for the early access release to have some new gear (if you happen to have any you've made that you're willing to donate to me (with credit) I'd be very grateful, the place I got the current gear from doubled their prices with no warning or sale...)
-- 0.6 will have a new item type, permadeath profiles, and the fourth region (featuring Reiko, that region's main trader)
-- 0.7 will have a new objective type (as previously mentioned I have 2 more ideas that I plan to implement over time, not sure which one this one will be yet)
-
-The playtest is still planned for this month, I'll also post a blog post alongside it. I've also done a bunch of lighting updates again, so expect new screenshots lol (I've learned more about lighting in this engine in general, to the point that I'll probably change the capsule art and store gifs as well)
 
 ## 0.5 (Current, Planned Early Access Release) - April 2027
 - Weather system/visuals (rain, etc)
@@ -140,7 +106,7 @@ The playtest is still planned for this month, I'll also post a blog post alongsi
 - ???
 
 ## Supporter Edition
-When the game is available, either through early access or with full release (if I decide to not do early access), I'm planning to create a small "supporter" DLC (final name may be different).
+When the game is available, I'm planning to create a small "supporter" DLC (final name may be different).
 This is currently what I'm planning to include in it (could change at any time):
 - 4K screenshots/wallpapers of environments/characters
 - High quality versions of any music I've made for it
