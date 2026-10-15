@@ -10,10 +10,15 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 10/7/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
+This is the current (as of 10/15/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(10/15)
+Adjusting the supporter pack contents again, removing weapon viewer mode in favor of a "firing range/dev room" scene. Couldn't figure out a way to do the previous idea well, and I think this is probably a better idea anyway. Nameplates for it are done and working though!
+
+The previous idea came from a scene that I made that generated a random weapon using a bot loadout. Unfortunately, I couldn't figure out a nice way to convert that into something that was customizable.
+
 (10/13)
 Cleared out some of the older updates since it's been a while. Trailer is done (generally at least, need to get some ppl to test watch it). Demo build is finished and uploaded. Tomorrow I plan to submit it for review (may or may not lol, plan to do a test playthrough of the demo first). Release of it is still planned for early December. It's in its own branch now, so I can begin working on the 0.5 features and content again. If I make significant progress over the next 2 weeks, I'll probably end up making a post, but right now I still plan not to, and plan to only make the previously mentioned Next Fest post instead.
 
@@ -111,7 +116,7 @@ This is currently what I'm planning to include in it (could change at any time):
 - 4K screenshots/wallpapers of environments/characters
 - High quality versions of any music I've made for it
 - Some special in-game nameplates
-- A "weapon viewer" mode, which will consist of a scene where you can pick any weapon in the game, customize it how you'd like, then screenshot it, with or without a background
+- Firing range/dev room scene, where every item is available and custom missions can be created and played, but saving is disabled (multiplayer unsure atm)
 
 ## Expectation for full release - ??? 2028+
 - Six total regions
