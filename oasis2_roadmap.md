@@ -10,10 +10,15 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 10/15/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
+This is the current (as of 10/17/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(10/17)
+Minor update, I'm cutting visible holstered weapons. It's feasible technically, but I couldn't think of a way of doing it that wouldn't add even more onto my workload for a new weapon (which would get compounded once more backpacks are implemented as well) for honestly very little noticible visual benefit. May decide to try it again in the future as something only used for certain weapons (it would only take about a day to implement this, I think) or something, but for right now I'm not considering it anymore. 
+
+In other news, I've built some stat bars into the tooltip for weapons, which hopefully should be a decent representation of its stats (recoil, spread, and speed).
+
 (10/15)
 Adjusting the supporter pack contents again, removing weapon viewer mode in favor of a "firing range/dev room" scene. Couldn't figure out a way to do the previous idea well, and I think this is probably a better idea anyway. Nameplates for it are done and working though!
 
@@ -127,7 +132,7 @@ This is currently what I'm planning to include in it (could change at any time):
 
 ## Potential Ideas
 These are broad ideas I have, these may or may not be implemented at any time during Early Access or after and are just here for posterity's sake
-- Visible holstered weapons (I want to try to do this for 0.5, but unsure how feasible it is right now, may or may not happen, which is why its here instead of in there)
+- Visible holstered weapons (currently cut due to workload concerns, may implement in future with only certain weapons initially)
 - Seasonal/Leaderboard profiles (special profile type that wipes weekly/monthly/quarterly/?, may or may not change the game in some way, scored based on stats in some way, may have an in-game/meta reward for high ranks like a special nameplate, discord role, or something)
 
 ## Previous Milestones
