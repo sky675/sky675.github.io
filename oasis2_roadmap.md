@@ -14,6 +14,11 @@ This is the current (as of 10/17/26) planned roadmap for OASIS II. Anything here
 
 ## Latest Updates
 You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
+(10/20)
+Minor update, probably won't be posting about this Next Fest. It's so flooded by AI slop that I unfortunately couldn't find enough interesting games (currently have 25 demos, which is about 50% less than normal and none of the ones I've played so far have really stood out to me). I'm currently working on the export system so instead I may post about that instead. Also considering moving the stocks system to a later version, or partially implement it (to avoid having to add hooks in a bunch of places for it later) for now and fully finish it later. 
+
+Lastly, I've figured out a good way to automatically add regions that should be unlocked that previously did not exist, so those playing the demo won't have to worry about that (but if you've played the playtest to the point where you've reached Kansai level 4, you *may* need to restart to unlock Chubu when that region is added, I'm unsure if I'm going to add extra progression levels to Kansai or not atm)
+
 (10/17)
 Minor update, I'm cutting visible holstered weapons. It's feasible technically, but I couldn't think of a way of doing it that wouldn't add even more onto my workload for a new weapon (which would get compounded once more backpacks are implemented as well) for honestly very little noticible visual benefit. May decide to try it again in the future as something only used for certain weapons (it would only take about a day to implement this, I think) or something, but for right now I'm not considering it anymore. 
 
@@ -37,7 +42,7 @@ As a reminder, here is what is changed for the demo from the playtest:
 	- Haven't tested it as of writing but I believe this should make it a bit easier - my goal balancing-wise is a 65-75% personal mission completion rate, it is currently 30-50% (though it is a bit skewed from testing missions).
 - Some minor fixes for issues I found while recording footage for the trailer (fun fact 2 of the issues can be seen in the trailer, but I left them in because don't think it'd be that noticible, look out for them lol)
 
-I do have a system planned for unlocking new (to the profile) regions for profiles that pass the level that would cause a new region to be unlocked while that region doesn't technically exist, so profiles that play long enough to unlock Kasumi in the demo will be able to access Kansai in the full game - though it will be via a quest Maki will have, not automatic.
+I do have a system planned for unlocking new (to the profile) regions for profiles that pass the level that would cause a new region to be unlocked while that region doesn't technically exist, so profiles that play long enough to unlock Kasumi in the demo will be able to access Kansai in the full game - though it will be via a quest Maki will have, not automatic. **(update: this actually will be automatic)**
 
 (10/7)
 Updating this to document a few ideas I had, most currently planned for 0.6 and/or the future, for which I added a "Potential Ideas" section for. Right now however, I'm currently working on a trailer, which will be released with the demo version (probably in early December). Next week, I will split off a new branch for the demo version, make the changes I've previously described (remove kansai, move kasumi into chugoku so the miner is accessible), and start setting up stuff for the demo app. 
