@@ -10,44 +10,9 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 10/17/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
+This is the current (as of 10/21/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
 
-## Latest Updates
-You should use the table of contents to the right if this has gotten particularly long, I only remove entries after a milestone has been completed.
-(10/20)
-Minor update, probably won't be posting about this Next Fest. It's so flooded by AI slop that I unfortunately couldn't find enough interesting games (currently have 25 demos, which is about 50% less than normal and none of the ones I've played so far have really stood out to me). I'm currently working on the export system so instead I may post about that instead. Also considering moving the stocks system to a later version, or partially implement it (to avoid having to add hooks in a bunch of places for it later) for now and fully finish it later. 
-
-Lastly, I've figured out a good way to automatically add regions that should be unlocked that previously did not exist, so those playing the demo won't have to worry about that (but if you've played the playtest to the point where you've reached Kansai level 4, you *may* need to restart to unlock Chubu when that region is added, I'm unsure if I'm going to add extra progression levels to Kansai or not atm)
-
-(10/17)
-Minor update, I'm cutting visible holstered weapons. It's feasible technically, but I couldn't think of a way of doing it that wouldn't add even more onto my workload for a new weapon (which would get compounded once more backpacks are implemented as well) for honestly very little noticible visual benefit. May decide to try it again in the future as something only used for certain weapons (it would only take about a day to implement this, I think) or something, but for right now I'm not considering it anymore. 
-
-In other news, I've built some stat bars into the tooltip for weapons, which hopefully should be a decent representation of its stats (recoil, spread, and speed).
-
-(10/15)
-Adjusting the supporter pack contents again, removing weapon viewer mode in favor of a "firing range/dev room" scene. Couldn't figure out a way to do the previous idea well, and I think this is probably a better idea anyway. Nameplates for it are done and working though!
-
-The previous idea came from a scene that I made that generated a random weapon using a bot loadout. Unfortunately, I couldn't figure out a nice way to convert that into something that was customizable.
-
-(10/13)
-Cleared out some of the older updates since it's been a while. Trailer is done (generally at least, need to get some ppl to test watch it). Demo build is finished and uploaded. Tomorrow I plan to submit it for review (may or may not lol, plan to do a test playthrough of the demo first). Release of it is still planned for early December. It's in its own branch now, so I can begin working on the 0.5 features and content again. If I make significant progress over the next 2 weeks, I'll probably end up making a post, but right now I still plan not to, and plan to only make the previously mentioned Next Fest post instead.
-
-As a reminder, here is what is changed for the demo from the playtest:
-- Removed Kansai (just for demo pacing/content concerns, still in full release)
-- Kasumi has a temporary shop in Chugoku that is unlocked at the same level Kansai would be unlocked
-- Kasumi's Mining Pick mission has been moved to Chugoku, so it is finishable. (both it and its prerequisite will not reward region xp in the demo though)
-	- The other Kansai quests still technically exist, so if you load a profile that had them they'll be visible, but they won't be completable (technically No Sniping should be completable)
-- Added new quest for Hara to make up for some of the later game quests being inaccessible in the demo (this is not a temporary quest for the demo though)
-- Protection mechanic added in the last playtest update has been buffed (reduced damage threshold, reduced max damage dealt to player at once)
-	- Haven't tested it as of writing but I believe this should make it a bit easier - my goal balancing-wise is a 65-75% personal mission completion rate, it is currently 30-50% (though it is a bit skewed from testing missions).
-- Some minor fixes for issues I found while recording footage for the trailer (fun fact 2 of the issues can be seen in the trailer, but I left them in because don't think it'd be that noticible, look out for them lol)
-
-I do have a system planned for unlocking new (to the profile) regions for profiles that pass the level that would cause a new region to be unlocked while that region doesn't technically exist, so profiles that play long enough to unlock Kasumi in the demo will be able to access Kansai in the full game - though it will be via a quest Maki will have, not automatic. **(update: this actually will be automatic)**
-
-(10/7)
-Updating this to document a few ideas I had, most currently planned for 0.6 and/or the future, for which I added a "Potential Ideas" section for. Right now however, I'm currently working on a trailer, which will be released with the demo version (probably in early December). Next week, I will split off a new branch for the demo version, make the changes I've previously described (remove kansai, move kasumi into chugoku so the miner is accessible), and start setting up stuff for the demo app. 
-
-Because of the playtest update posts this month and the playtest version currently being the same as the version of the main game, I probably won't do a dev-blog post for this month. Instead, I'll write a post about the games from Next Fest this month that I liked, since I enjoyed doing that in June.
+Updates to this roadmap can be found in the git history [here](https://github.com/sky675/sky675.github.io/commits/main/oasis2_roadmap.md).
 
 ## 0.5 (Current, Planned Early Access Release) - April 2027
 - Weather system/visuals (rain, etc)
@@ -55,9 +20,9 @@ Because of the playtest update posts this month and the playtest version current
 	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather (primarily snow).
 - Stocks system
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and certain quests
-- Exports system
+- Exports system **(partially started, focusing on demo polish)**
 	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
-	- Exports may be able to be redeemed to create a one-attempt mission in the current region with a specific type of modifier (corp area item loot without having to deal with corp security, etc) (not 100% sure on this yet, this'll probably change lol)
+	- Exports may be able to be redeemed to create a one-attempt mission in the current region with a specific type of modifier instead (corp area item loot without having to deal with corp security, etc) (not 100% sure on this yet, this'll probably change lol)
 - Hacking expansion (new interface + set of programs)
 - Office map type expansion (local office-type variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
