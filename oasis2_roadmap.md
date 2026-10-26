@@ -10,33 +10,33 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 10/21/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
+This is the current (as of 10/26/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
 
 Updates to this roadmap can be found in the git history [here](https://github.com/sky675/sky675.github.io/commits/main/oasis2_roadmap.md).
 
 ## 0.5 (Current, Planned Early Access Release) - April 2027
 - Weather system/visuals (rain, etc)
-	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it (to an extent, it won't go from like clear to heavy rain)
-	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather (primarily snow).
+	- How weather worked in Tokyo is that it would pick the weather state for each scene that could have it, and that would persist while the game was open. Now it'll work more like normal weather, as time progresses it'll get better/worse, and changing regions will randomize it (not planning to have like a forecast or anything like that, this is *mostly* visual)
+	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather (primarily snow-related stuff).
 - Stocks system
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and certain quests
 - Exports system **(partially started, focusing on demo polish)**
-	- Reimplementing exports from Tokyo, but without the mission modifying part. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
-	- Exports may be able to be redeemed to create a one-attempt mission in the current region with a specific type of modifier instead (corp area item loot without having to deal with corp security, etc) (not 100% sure on this yet, this'll probably change lol)
+	- Reimplementing exports from Tokyo, though a bit differently. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
+	- Exports are physical items in your inventory, which can then be given to Maki to either be sold at an auction or used for a one-try mission with special effects (corp area loot but without the corp's security, etc)
 - Hacking expansion (new interface + set of programs)
 - Office map type expansion (local office-type variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
 - More advanced hitbox script (intended for the head, but may be added to other parts in the future) **(done)**
 	- Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
 - Bullet penetration system (maybe, this may get moved later)
-- New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a backpack)
+- New gear (depends on what I can get my hands on, but aiming for at least a helmet, an unarmored vest, and a new backpack)
 - Hair under helmets/hats
 - New containers (ammo, weapons/atts/mags, general item containers)
 - Voiceline system (planning to start with just some generic grunt noises)
-	- If you want to volunteer to voice characters, please email me or message on discord! Primarily looking for male and female voices for: English and Japanese.
+	- If you want to volunteer to voice characters, please email me or message on discord! Primarily looking for male and female voices who can speak: English and Japanese (but I may want other languages in the future).
 - HUD cyberware expansion
 	- Overview AUX hud (shows the health of teammates)
-	- SmartVision (will be part of a base cyberware and not a mod, probably will come with no mod slots or maybe only a health one)
+	- SmartVision (will be part of a base cyberware and not a mod, probably will come with no mod slots or maybe only a health one, tbd)
 	- Advanced weapon hud (shows mags/ammo left in inv)
 	- ???
 - ???
@@ -55,7 +55,7 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 - Cyberware clothing item (clothing items that provide a cyberware effect, such as glasses that give a hud element without needing eye cyberware)
 - Durability on armor 
 	- Certain clothing items may have a durability, and after its depleted it the affected hitboxes no longer have armor
-	- This will primarily be only be used for high value armor (helmets with faceshields, high-tier armor), bots using them will also be affected, items like what are currently in-game will still have no durability
+	- This will primarily be only be used for high value armor (helmets with faceshields, high-tier armor), bots using them will also be affected, existing items will have no durability
 	- Can be repaired at shops
 - Revive rework
 	- Can be revived without item (but will be at 1 hp)
