@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 10/26/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
+This is the current (as of 10/27/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
 
 Updates to this roadmap can be found in the git history [here](https://github.com/sky675/sky675.github.io/commits/main/oasis2_roadmap.md).
 
@@ -104,6 +104,7 @@ This is currently what I'm planning to include in it (could change at any time):
 These are broad ideas I have, these may or may not be implemented at any time during Early Access or after and are just here for posterity's sake
 - Visible holstered weapons (currently cut due to workload concerns, may implement in future with only certain weapons initially)
 - Seasonal/Leaderboard profiles (special profile type that wipes weekly/monthly/quarterly/?, may or may not change the game in some way, scored based on stats in some way, may have an in-game/meta reward for high ranks like a special nameplate, discord role, or something)
+- Rogue-like profile type (special progression, a bit of quick mode and a bit of oasis hunt in a more traditional rogue-like format, special mp rules where you can only join at the start of a run, will include a way to restart an existing run)
 
 ## Previous Milestones
 
