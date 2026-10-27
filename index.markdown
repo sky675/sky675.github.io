@@ -8,7 +8,7 @@ layout: splash
 title: skaaie
 masthead_title: Homepage
 tagline: >- 
-  I'm sky, currently a solo game developer. I am primarily a programmer and game designer, and specifically enjoy trying to create unique spins on the FPS genre. I also have a major interest in game AI (the traditional kind, like bots in old multiplayer games).
+  I'm sky, currently a solo game developer. I am primarily a programmer and game designer, and specifically enjoy trying to create unique spins on the FPS genre. I also have a major interest in game AI (the traditional kind, like bots in old multiplayer games in particular).
   <br><br>
   I have around 7 years of solo experience with Unity and C# (started ~2016), and began using Godot (using GDScript) as my primary engine in 2024. I also have experience with Lua from my Garry's Mod server days.
   <br><br>
@@ -21,21 +21,24 @@ header:
      label: "Contact Email"
 ---
 
+## OASIS II - Solo (In Development), Godot (2025-)
+![oasis2](/assets/images/posts/oasis2_blog11/4k_screenshot.png)
+
+[OASIS II](https://store.steampowered.com/app/4883680) is *technically a prequel* to OASIS: Tokyo that is currently in development. Similar to its predecessor, it is a single-player/co-op semi-tactical FPS featuring elements inspired by extraction shooters and rogue-likes in a sci-fi cyberpunk setting. You play as part of an outfit of mercenaries, taking various "under the table" jobs from corporations, criminal organizations, and anyone else who's willing to pay. 
+
+You'll travel across a near-future alternate-history Japan in your Mobile Operating Base, meeting various traders with a variety of quests on top of revamped procedurally generated missions, all of which will provide reputation in its related region. Improving your reputation in one region may provide a foothold into another one. You'll also be able to improve yourself, using revamped cyberware and skill systems. The game also has many new gameplay features such as the addition of leaning and alternate ammo types. I've also improved my tooling, making content creation for the game much easier compared to Tokyo. 
+
+This project is still somewhat early in development, and I plan to use Early Access to use feedback to improve the game as I finish it. Like Tokyo, I've written nearly all (non-engine) code in the project. Some scripts have even been ported from Tokyo and translated from C# into Godot's GDScript. You can read more about the core of this project [in my blog post here](/oasis/oasis-2-dev-blog-9). **No AI has been used in the development of this game and no AI ever will be.**
+
+[[**Roadmap**](/oasis2_roadmap.md)] [[**Press Kit**](/oasis2_presskit.md)]
+{: .text-center}
+
 ## OASIS: Tokyo - Solo Developed, Unity (2020-2024)
 ![oasis](/assets/images/vlcsnap-2023-05-30-19h02m20s512.png)
 
 [OASIS](https://store.steampowered.com/app/2531340) is a semi-tactical FPS with rogue-lite elements set in a cyberpunk version of Japan with a focus on inventory management. In it, you need to increase your reputation in the underworld in order to find the fabled "Oasis", a hidden location shrouded in mystery. While doing this, you must contend with limited inventory space and need to balance sufficient ammo and meds with extra bag space for loot.
 
 This was my first commerical project I've released and was made with Unity. About 95% of scripts the game uses was written by me from scratch over the span of about 3 years, including the menus, enemy AI, weapon functionality, and inventory systems.
-
-## OASIS II - Solo (In Development), Godot (2025-)
-![oasis2](/assets/images/posts/oasis2_blog11/4k_screenshot.png)
-
-[OASIS II](https://store.steampowered.com/app/4883680) is a prequel to OASIS: Tokyo currently in development. Similar to its predecessor, it is a single-player/co-op semi-tactical FPS featuring elements inspired by extraction shooters and rogue-likes in a sci-fi cyberpunk setting. You play as part of an outfit of mercenaries, taking various "under the table" jobs from corporations, criminal organizations, and anyone else who's willing to pay. 
-
-You'll travel across a near-future alternate-history Japan in your Mobile Operating Base, meeting various traders with a variety of quests on top of revamped procedurally generated missions, all of which will provide reputation in its related region. Improving your reputation in one region may provide a foothold into another one. You'll also be able to improve yourself, using revamped cyberware and skill systems. The game also has many new gameplay features such as the addition of leaning and alternate ammo types. I've also improved my tooling, making content creation for the game much easier compared to Tokyo. 
-
-You can read more about the game [in my blog post here](/oasis/oasis-2-dev-blog-9). I've been periodically posting updates on the game's development on my blog on this site. I've also created a roadmap [here](/oasis2_roadmap.md)
 
 ## Dyskairos - Solo Developed, Godot (2024-2025)
 ![dys](/assets/images/vlcsnap-2025-01-28-03h18m34s404.png)
@@ -70,7 +73,7 @@ During the server's life, I created many features that were unique to the server
 ## Koi - Side Project, Godot (2024-)
 ![koi](/assets/images/koi_vXmYK5Pv67.png)
 
-[Koi](https://sky675.itch.io/koi) *(page currently set as restricted, pass is `koi`)* is a side project I've been working on that was originally inspired by the Bot Warfare mods for the older Call of Duty games. In it, I'm creating a moddable offline game inspired by Call of Duty's multiplayer modes, primarily for my desire to watch bots fight (and fight with them) in various gamemodes that aren't in those older CoDs (and also desire for a moddable CoD MP-type game in general, since that doesn't seem to exist right now). 
+[Koi](https://sky675.itch.io/koi) *(page currently set as restricted, pass is `koi`)* is a side project I've been working on that was originally inspired by the Bot Warfare mods for the older Call of Duty games. In it, I'm creating a moddable offline game inspired by Call of Duty's multiplayer modes, primarily from my desire to watch bots fight (and fight with them) in various gamemodes that aren't in those older CoDs (and also desire for a moddable CoD MP-type game in general, since that doesn't seem to exist right now). 
 
 I also have the intention of open sourcing it once it's further along. 
 
