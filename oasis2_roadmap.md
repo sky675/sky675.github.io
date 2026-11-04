@@ -10,7 +10,7 @@ header:
   overlay_image: assets/images/oasis2_bannerv3.png
 ---
 
-This is the current (as of 10/30/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
+This is the current (as of 11/4/26) planned roadmap for OASIS II. Anything here is subject to change at any point. The best way to support this project is by spreading the word, buying my previous games and spreading the word about those too! Every wishlist and every purchase helps me immensely.
 
 Updates to this roadmap can be found in the git history [here](https://github.com/sky675/sky675.github.io/commits/main/oasis2_roadmap.md).
 
@@ -20,7 +20,7 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 	- Currently only planning for the basic weather states that were in Tokyo (clear, cloudy (what it always is as of rn), overcast, light rain, heavy rain), but in the future want to add other weather (primarily snow-related stuff).
 - Stocks system
 	- Simple stock trading sim, will be an additional, riskier, way of getting v-mon. Will also be manipulatable via the hacking system, corp area missions, and certain quests
-- Exports system **(partially started, focusing on demo polish)**
+- Exports system **(partially started)**
 	- Reimplementing exports from Tokyo, though a bit differently. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
 	- Exports are physical items in your inventory, which can then be given to Maki to either be sold at an auction or used for a one-try mission with special effects (corp area loot but without the corp's security, etc)
 - Hacking expansion (new interface + set of programs)
@@ -55,7 +55,7 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 - Cyberware clothing item (clothing items that provide a cyberware effect, such as glasses that give a hud element without needing eye cyberware)
 - Durability on armor 
 	- Certain clothing items may have a durability, and after its depleted it the affected hitboxes no longer have armor
-	- This will primarily be only be used for high value armor (helmets with faceshields, high-tier armor), bots using them will also be affected, existing items will have no durability
+	- This will primarily be only be used for high value armor (helmets with faceshields, high-tier armor), bots using them will also be affected, existing items will have no durability (will only introduce items that would use this with this feature)
 	- Can be repaired at shops
 - Revive rework
 	- Can be revived without item (but will be at 1 hp)
