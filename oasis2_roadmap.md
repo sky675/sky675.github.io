@@ -34,6 +34,7 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 - New containers (ammo, weapons/atts/mags, general item containers)
 - Voiceline system (planning to start with just some generic grunt noises)
 	- If you want to volunteer to voice characters, please email me or message on discord! Primarily looking for male and female voices who can speak: English and Japanese (but I may want other languages in the future).
+- Special missions clients have (priority, quests) will be pickable by the host, even if they've already done it
 - HUD cyberware expansion
 	- Overview AUX hud (shows the health of teammates)
 	- SmartVision (will be part of a base cyberware and not a mod, probably will come with no mod slots or maybe only a health one, tbd)
