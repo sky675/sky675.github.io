@@ -24,7 +24,7 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 	- Reimplementing exports from Tokyo, though a bit differently. Obtainable from hacking, semi-related to stocks (a stock may go up or down if you list an export about a corp for sale, etc). This time they'll be sold in in-game time instead of IRL time.
 	- Exports are physical items in your inventory, which can then be given to Maki to either be sold at an auction or used for a one-try mission with special effects (corp area loot but without the corp's security, etc)
 - Hacking expansion (new interface + set of programs)
-- Office map type expansion (local office-type variants + new rooms)
+- Office map type expansion (local office-type entrance variants + new rooms)
 - New weapons (aiming for at least 3 weapons per milestone, currently considering: type 89, p22x(?), saiga/sk-12)
 - More advanced hitbox script (intended for the head, but may be added to other parts in the future) **(done)**
 	- Splits up a hitbox into more specific locations based on where the bullet actually hits the hitbox, will be used for helmets, armored face masks, etc
@@ -62,7 +62,6 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 	- Can be revived without item (but will be at 1 hp)
 	- Certain items (first aid kit, kage kit) can use a charge to revive at higher hp (automatic, move it out of vests/pockets before reviving to not use it)
 	- Revive kits will become multi-use, will revive with highest amount of hp
-- Fourth region (at least 1 new trader)
 - Permadeath profile mode (play with a permadeath mechanic)
 	- In MP the save will only be deleted if the whole team wipes
 	- Will probably end up not *actually* deleting the save, instead just making it not playable and kicking you to the menu, so the stats can be seen later (as a memorial type of thing)
@@ -78,6 +77,7 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 - New weapons (currently considering: v45, t95 (5.45 ver))
 - Grenades
 - New objective type (tbd)
+- Fourth region (at least 1 new trader)
 - ???
 
 ## 0.8 - ???
