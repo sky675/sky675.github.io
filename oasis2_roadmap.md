@@ -40,6 +40,9 @@ Updates to this roadmap can be found in the git history [here](https://github.co
 	- SmartVision (will be part of a base cyberware and not a mod, probably will come with no mod slots or maybe only a health one, tbd)
 	- Advanced weapon hud (shows mags/ammo left in inv)
 	- ???
+- Preset missions client have will get sent to the host, even if they've already done them
+- Quick reload mechanic (tbd)
+- Kansai region mechanic (friendly squad has a chance of spawning in missions, identifiable in some way, likely armbands but tbd)
 - ???
 
 ## 0.6 - ??? 2027
